@@ -1,0 +1,1734 @@
+{
+  "items": [
+    {
+      "description": "Recommended and not too much outdated jQuery books.",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "Animations, transitions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fullpage.js",
+          "description": "Create full screen pages fast and simple.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-17T16:13:31Z",
+            "owner": "alvarotrigo",
+            "repo": "fullPage.js",
+            "stars": 35414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Particles",
+          "description": "A plugin to easily add Particles animations to your web application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Transit",
+          "description": "Super-smooth CSS3 transformations and transitions for jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-18T08:56:25Z",
+            "owner": "rstacruz",
+            "repo": "jquery.transit",
+            "stars": 7236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animsition",
+          "description": "A simple and easy jQuery plugin for CSS animated page transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-11-19T05:15:32Z",
+            "owner": "blivesta",
+            "repo": "animsition",
+            "stars": 3785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Midnight",
+          "description": "Switches fixed headers on the fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-04T23:59:58Z",
+            "owner": "Aerolab",
+            "repo": "midnight.js",
+            "stars": 3648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parallax.js",
+          "description": "Scrolling effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-11T11:39:51Z",
+            "owner": "pixelcog",
+            "repo": "parallax.js",
+            "stars": 3535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waves",
+          "description": "Click effect inspired by Google's Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T04:37:25Z",
+            "owner": "fians",
+            "repo": "Waves",
+            "stars": 3464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrollify",
+          "description": "Assists scrolling and snaps to sections. Touch optimised.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-13T12:28:07Z",
+            "owner": "lukehaas",
+            "repo": "Scrollify",
+            "stars": 1810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery DrawSVG",
+          "description": "Lightweight, simple to use jQuery plugin to animate SVG paths",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-22T01:07:06Z",
+            "owner": "lcdsantos",
+            "repo": "jquery-drawsvg",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fakeLoader.js",
+          "description": "Lightweight plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-02-25T21:35:46Z",
+            "owner": "joaopereirawd",
+            "repo": "fakeLoader.js",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Design Preloader!s",
+          "description": "Recreation of the Material Design preloader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-05-09T17:03:55Z",
+            "owner": "aaronlumsden",
+            "repo": "Material-Preloader",
+            "stars": 367
+          }
+        }
+      ],
+      "title": "Animation"
+    },
+    {
+      "description": "WYSIWYG editors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Froala WYSIWYG HTML Editor",
+          "description": "jQuery WYSIWYG Rich Text Editor based on HTML5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-15T10:57:39Z",
+            "owner": "froala",
+            "repo": "wysiwyg-editor",
+            "stars": 5405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hallo",
+          "description": "Simple rich text editor (contentEditable) for jQuery UI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CoffeeScript",
+            "last_commit": "2020-09-03T15:39:25Z",
+            "owner": "bergie",
+            "repo": "hallo",
+            "stars": 2449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Notebook",
+          "description": "A modern, simple and elegant WYSIWYG rich text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-13T20:20:10Z",
+            "owner": "raphaelcruzeiro",
+            "repo": "jquery-notebook",
+            "stars": 1679
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "Plugins for Forms, AJAX, validation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "File Upload",
+          "description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2026-04-08T09:52:14Z",
+            "owner": "blueimp",
+            "repo": "jQuery-File-Upload",
+            "stars": 30726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Select2",
+          "description": "Select box with support for searching, tagging, remote data sets, infinite scrolling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T17:40:54Z",
+            "owner": "select2",
+            "repo": "select2",
+            "stars": 25911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selectize.js",
+          "description": "jQuery based hybrid of a textbox and <select> box.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SCSS",
+            "last_commit": "2026-04-15T03:14:34Z",
+            "owner": "selectize",
+            "repo": "selectize.js",
+            "stars": 13024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pickadate",
+          "description": "The mobile-friendly, responsive, and lightweight date & time input picker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-14T10:02:54Z",
+            "owner": "amsul",
+            "repo": "pickadate.js",
+            "stars": 7652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Form Plugin",
+          "description": "Easy and unobtrusive HTML forms upgrade to use AJAX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-10T03:38:00Z",
+            "owner": "jquery-form",
+            "repo": "form",
+            "stars": 5148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrap Multiselect",
+          "description": "Multiselect for Bootstrap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-15T14:07:52Z",
+            "owner": "davidstutz",
+            "repo": "bootstrap-multiselect",
+            "stars": 3675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Justified Gallery",
+          "description": "Allows you to create a gallery with a justified grid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-14T15:19:56Z",
+            "owner": "miromannino",
+            "repo": "Justified-Gallery",
+            "stars": 1746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery-minicolors",
+          "description": "A tiny color picker plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-20T08:29:40Z",
+            "owner": "claviska",
+            "repo": "jquery-minicolors",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Labelauty",
+          "description": "A lightweight and beautiful plugin for radio and checkbox inputs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2017-10-11T00:25:35Z",
+            "owner": "fntneves",
+            "repo": "jquery-labelauty",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ideal Forms",
+          "description": "Framework for building and validating responsive HTML5 forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-01T12:28:14Z",
+            "owner": "elclanrs",
+            "repo": "jq-idealforms",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Payform",
+          "description": "A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2022-06-22T02:27:21Z",
+            "owner": "jondavidjohn",
+            "repo": "payform",
+            "stars": 426
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "Plugins related to images, image manipulation, galleries, maps and charts.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chart.js",
+          "description": "Simple HTML5 Charts using the <canvas> tag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T21:17:31Z",
+            "owner": "chartjs",
+            "repo": "Chart.js",
+            "stars": 67640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slick",
+          "description": "The last carousel you'll ever need.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T15:56:54Z",
+            "owner": "kenwheeler",
+            "repo": "slick",
+            "stars": 28564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owl Carousel 2",
+          "description": "Responsive carousel slider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-03T17:20:15Z",
+            "owner": "OwlCarousel2",
+            "repo": "OwlCarousel2",
+            "stars": 7909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cropper",
+          "description": "A simple image cropping plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-21T10:46:15Z",
+            "owner": "fengyuanchen",
+            "repo": "cropper",
+            "stars": 7680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flot",
+          "description": "Attractive charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-08T19:56:18Z",
+            "owner": "flot",
+            "repo": "flot",
+            "stars": 5910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peity",
+          "description": "Progressive <svg> pie, donut, bar and line charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-04-11T10:21:12Z",
+            "owner": "benpickles",
+            "repo": "peity",
+            "stars": 4214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BackStretch",
+          "description": "jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-20T22:41:22Z",
+            "owner": "jquery-backstretch",
+            "repo": "jquery-backstretch",
+            "stars": 3881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arbor",
+          "description": "Graph visualization library using web workers and jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-10T22:24:22Z",
+            "owner": "samizdatco",
+            "repo": "arbor",
+            "stars": 2660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQueryGantt",
+          "description": "Gantt editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-09T15:46:07Z",
+            "owner": "robicch",
+            "repo": "jQueryGantt",
+            "stars": 2248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery.sparkline",
+          "description": "Generate small sparkline charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-10T23:24:43Z",
+            "owner": "gwatts",
+            "repo": "jquery.sparkline",
+            "stars": 1236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nivo Slider",
+          "description": "Beautiful and easy to use image slider.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-04-27T12:58:22Z",
+            "owner": "Codeinwp",
+            "repo": "Nivo-Slider-jQuery",
+            "stars": 1234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viewer",
+          "description": "A simple jQuery image viewing plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-21T11:02:46Z",
+            "owner": "fengyuanchen",
+            "repo": "viewer",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Mapael",
+          "description": "Plugin based on raphael.js that allows you to display dynamic vector maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-09T13:01:44Z",
+            "owner": "neveldo",
+            "repo": "jQuery-Mapael",
+            "stars": 1007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unite Gallery",
+          "description": "Responsive jQuery image and video gallery plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-25T06:44:46Z",
+            "owner": "vvvmax",
+            "repo": "unitegallery",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gridder",
+          "description": "Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-07T22:02:34Z",
+            "owner": "orion3dgames",
+            "repo": "gridder",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery.eraser",
+          "description": "Erasing image with mouse or touch movements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-17T20:39:03Z",
+            "owner": "boblemarin",
+            "repo": "jQuery.eraser",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dense.js",
+          "description": "Serving retina-ready, high pixel ratio images with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-28T11:51:02Z",
+            "owner": "gocom",
+            "repo": "dense",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Images Compare",
+          "description": "Plugin for comparing two images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-14T08:27:01Z",
+            "owner": "sylvaincombes",
+            "repo": "jquery-images-compare",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnyChart-jQuery",
+          "description": "Plugin for easily using AnyChart JavaScript charting library with jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-07T16:29:42Z",
+            "owner": "AnyChart",
+            "repo": "AnyChart-jQuery",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JQuery-linechart",
+          "description": "Simple and lightweight library for creating line charts",
+          "children": []
+        }
+      ],
+      "title": "Images, Maps and Charts"
+    },
+    {
+      "description": "Menus animation, usability enhancements and beautification.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jQuery-menu-aim",
+          "description": "Fires events when user's cursor aims at particular dropdown menu items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-01T09:37:40Z",
+            "owner": "kamens",
+            "repo": "jQuery-menu-aim",
+            "stars": 7623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmenu",
+          "description": "App look-alike on- and off-canvas menus with sliding submenus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-15T09:43:39Z",
+            "owner": "FrDH",
+            "repo": "mmenu-js",
+            "stars": 2568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery contextMenu",
+          "description": "Management facility for context menus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T08:30:59Z",
+            "owner": "swisnl",
+            "repo": "jQuery-contextMenu",
+            "stars": 2245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stickUp",
+          "description": "Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-07-08T06:19:34Z",
+            "owner": "LiranCohen",
+            "repo": "stickUp",
+            "stars": 1532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slidebars",
+          "description": "jQuery framework for off-canvas menus and sidebars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-08T07:26:10Z",
+            "owner": "adchsm",
+            "repo": "Slidebars",
+            "stars": 1480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yamm",
+          "description": "Yet another megamenu for Bootstrap 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-04-01T03:05:47Z",
+            "owner": "geedmo",
+            "repo": "yamm3",
+            "stars": 1190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jPanelMenu",
+          "description": "Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-04-17T12:57:49Z",
+            "owner": "acolangelo",
+            "repo": "jPanelMenu",
+            "stars": 912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superfish",
+          "description": "Adds usability enhancements to existing multi-level drop-down menus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T22:18:26Z",
+            "owner": "joeldbirch",
+            "repo": "superfish",
+            "stars": 909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-level push menu",
+          "description": "Allows endless nesting of navigation elements.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-25T16:08:55Z",
+            "owner": "adgsm",
+            "repo": "multi-level-push-menu",
+            "stars": 798
+          }
+        }
+      ],
+      "title": "Menus"
+    },
+    {
+      "description": "Plugins for modals (dialog box/popups), tooltips, and similar popup windows.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SweetAlert",
+          "description": "A beautiful replacement for JavaScript's alert.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-15T22:54:03Z",
+            "owner": "t4t5",
+            "repo": "sweetalert",
+            "stars": 22265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magnific Popup",
+          "description": "Fast, light and responsive lightbox plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-08T08:20:34Z",
+            "owner": "dimsemenov",
+            "repo": "Magnific-Popup",
+            "stars": 11317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vex",
+          "description": "A modern dialog library which is highly configurable and easy to style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-02-26T00:28:34Z",
+            "owner": "HubSpot",
+            "repo": "vex",
+            "stars": 6876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lightbox",
+          "description": "JavaScript library used to overlay images on top of the current page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-13T06:58:58Z",
+            "owner": "lokesh",
+            "repo": "lightbox2",
+            "stars": 6374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrap Modal",
+          "description": "Extends the default Bootstrap Modal class. Responsive, stackable and ajax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-07T20:15:00Z",
+            "owner": "jschr",
+            "repo": "bootstrap-modal",
+            "stars": 4961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Modal",
+          "description": "Simple and lightweight method of displaying modal windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-18T03:52:43Z",
+            "owner": "kylefox",
+            "repo": "jquery-modal",
+            "stars": 2604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iziModal",
+          "description": "Elegant, responsive, flexible and lightweight modal plugin with jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2024-08-07T01:47:13Z",
+            "owner": "marcelodolza",
+            "repo": "iziModal",
+            "stars": 2150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avgrund",
+          "description": "Plugin for your modal boxes and popups with new concept of showing depth between popup and page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-18T20:36:00Z",
+            "owner": "voronianski",
+            "repo": "jquery.avgrund.js",
+            "stars": 1741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jBox",
+          "description": "Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-12-27T03:49:59Z",
+            "owner": "stephanwagner",
+            "repo": "jBox",
+            "stars": 1399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animatedModal.js",
+          "description": "Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from or create your own.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-04-12T14:43:57Z",
+            "owner": "joaopereirawd",
+            "repo": "animatedModal.js",
+            "stars": 952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Popup Overlay",
+          "description": "Responsive and accessible modal windows and tooltips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-12-08T07:40:16Z",
+            "owner": "vast-engineering",
+            "repo": "jquery-popup-overlay",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tipso",
+          "description": "A Lightweight Responsive jQuery Tooltip Plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-20T10:20:55Z",
+            "owner": "object505",
+            "repo": "tipso",
+            "stars": 319
+          }
+        }
+      ],
+      "title": "Modals and Popups"
+    },
+    {
+      "description": "Grid plugins and plugins for creating and showcasing data in form of tables.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Isotope",
+          "description": "Filter & sort magical layouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-09-24T03:20:14Z",
+            "owner": "metafizzy",
+            "repo": "isotope",
+            "stars": 11102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jqGrid",
+          "description": "Grid plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-10T07:56:06Z",
+            "owner": "tonytomov",
+            "repo": "jqGrid",
+            "stars": 2839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FooTable",
+          "description": "Make HTML tables responsive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T08:55:51Z",
+            "owner": "fooplugins",
+            "repo": "FooTable",
+            "stars": 2110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsGrid",
+          "description": "Lightweight grid plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-04T00:37:46Z",
+            "owner": "tabalinas",
+            "repo": "jsgrid",
+            "stars": 1520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FloatThead",
+          "description": "Sticky headers. Supports responsive, window and overflow scrolling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:16:44Z",
+            "owner": "mkoryak",
+            "repo": "floatThead",
+            "stars": 1213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stackable.js",
+          "description": "Stacking tables on small screens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-08-02T19:18:31Z",
+            "owner": "johnpolacek",
+            "repo": "stacktable.js",
+            "stars": 1017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tableExport.jquery.plugin",
+          "description": "Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2025-10-15T17:19:03Z",
+            "owner": "hhurz",
+            "repo": "tableExport.jquery.plugin",
+            "stars": 1008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootgrid",
+          "description": "A grid control especially designed for bootstrap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-07T04:48:57Z",
+            "owner": "rstaib",
+            "repo": "jquery-bootgrid",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery treetable",
+          "description": "Show a tree structure in a table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-26T06:22:32Z",
+            "owner": "ludo",
+            "repo": "jquery-treetable",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stupid Table Sort",
+          "description": "A stupidly small and simple jQuery table sorter plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-03T09:01:26Z",
+            "owner": "joequery",
+            "repo": "Stupid-Table-Plugin",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HighchartTable",
+          "description": "Simple way to convert HTML data tables to Highcharts graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-22T22:50:49Z",
+            "owner": "highchartTable",
+            "repo": "jquery-highchartTable-plugin",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Filter Table",
+          "description": "Live searching/filtering for HTML tables.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-01-05T23:02:45Z",
+            "owner": "sunnywalker",
+            "repo": "jQuery.FilterTable",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery.table-shrinker",
+          "description": "make HTML Table responsive across all devices, the right way!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-04T07:31:32Z",
+            "owner": "VagnerDomingues",
+            "repo": "jquery.table-shrinker",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Tables"
+    },
+    {
+      "description": "Plugins for handling, manipulating or formating time and date.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Timeago",
+          "description": "Easy support of automatic updating fuzzy timestamps (e.g. \"4 minutes ago\").",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T01:02:59Z",
+            "owner": "rmm5t",
+            "repo": "jquery-timeago",
+            "stars": 3797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Timer Plugin",
+          "description": "Start/Stop/Resume/Remove pretty timer inside any HTML element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-15T19:50:54Z",
+            "owner": "walmik",
+            "repo": "timer.jquery",
+            "stars": 296
+          }
+        }
+      ],
+      "title": "Time and Date"
+    },
+    {
+      "description": "Internationalization (i18n) and localization (l10n).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jquery.i18n",
+          "description": "jQuery based Javascript internationalization library for easy internationalization of web application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T06:51:38Z",
+            "owner": "wikimedia",
+            "repo": "jquery.i18n",
+            "stars": 738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery.localize.js",
+          "description": "Easy internationalization of your static web site",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-09T16:49:49Z",
+            "owner": "coderifous",
+            "repo": "jquery-localize",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n properties",
+          "description": "Lightweight plugin for providing internationalization to JavaScript from .properties files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-04-21T10:17:47Z",
+            "owner": "jquery-i18n-properties",
+            "repo": "jquery-i18n-properties",
+            "stars": 428
+          }
+        }
+      ],
+      "title": "Translations"
+    },
+    {
+      "description": "Validation plugins.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jquery-validation",
+          "description": "Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T19:09:57Z",
+            "owner": "jquery-validation",
+            "repo": "jquery-validation",
+            "stars": 10321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery.validationEngine",
+          "description": "Validation of form fields in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-09T14:10:33Z",
+            "owner": "posabsolute",
+            "repo": "jQuery-Validation-Engine",
+            "stars": 2537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Form Validator",
+          "description": "Validate user input while keeping your HTML markup clean from JavaScript code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-09T14:30:21Z",
+            "owner": "victorjonsson",
+            "repo": "jQuery-Form-Validator",
+            "stars": 962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h5Validate",
+          "description": "An HTML5 form validation plugin for jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-10T00:39:25Z",
+            "owner": "ericelliott",
+            "repo": "h5Validate",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery-form-validation",
+          "description": "Validatie html forms using Laravel syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-27T10:59:55Z",
+            "owner": "bnabriss",
+            "repo": "jquery-form-validation",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FormValidation",
+          "description": "Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.",
+          "children": []
+        }
+      ],
+      "title": "Validation"
+    },
+    {
+      "description": "Plugins that couldn't be sorted in above categories yet.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Boilerplate",
+          "description": "A jump-start for jQuery plugins development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-30T19:32:35Z",
+            "owner": "jquery-boilerplate",
+            "repo": "jquery-boilerplate",
+            "stars": 2489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sisyphus",
+          "description": "Gmail-like client-side drafts and bit more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-16T17:55:13Z",
+            "owner": "simsalabim",
+            "repo": "sisyphus",
+            "stars": 1971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autoNumberic",
+          "description": "autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T04:50:41Z",
+            "owner": "autoNumeric",
+            "repo": "autoNumeric",
+            "stars": 1806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readmore.js",
+          "description": "A lightweight jQuery plugin for collapsing and expanding long blocks of text with \"Read more\" and \"Close\" links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-10T20:18:32Z",
+            "owner": "jedfoster",
+            "repo": "Readmore.js",
+            "stars": 1489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slugify",
+          "description": "Creates a URL slug as you type a page title (like Django slugify()).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2015-11-11T20:42:35Z",
+            "owner": "pmcelhaney",
+            "repo": "jQuery-Slugify-Plugin",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Miscellaneous Plugins"
+    },
+    {
+      "description": "Mobile section.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Interdimensional",
+          "description": "Spatial scrolling on mobile devices for your web pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-04-10T15:16:28Z",
+            "owner": "vodkabears",
+            "repo": "Interdimensional",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OhSnap!.js",
+          "description": "A simple jQuery/Zepto notification library designed to be used in mobile apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-24T16:16:51Z",
+            "owner": "justindomingue",
+            "repo": "ohSnap",
+            "stars": 281
+          }
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "User Interface section.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dragula",
+          "description": "Framework agnostic drag and drop library, supports jQuery integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-07T11:46:14Z",
+            "owner": "bevacqua",
+            "repo": "dragula",
+            "stars": 22141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X-editable",
+          "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-11T09:56:24Z",
+            "owner": "vitalets",
+            "repo": "x-editable",
+            "stars": 6500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tabulous.js",
+          "description": "Tabs for todays web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-12-22T14:44:11Z",
+            "owner": "aaronlumsden",
+            "repo": "tabulous.js",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Enhanced Splitter",
+          "description": "Create draggable content splitters to emulate frames and separate content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2015-12-11T01:02:21Z",
+            "owner": "hiltonjanfield",
+            "repo": "jquery.enhsplitter",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macon",
+          "description": "Tiny utility (430B) to create reactive jquery components using a JSX-like syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-22T13:45:08Z",
+            "owner": "LoganTann",
+            "repo": "macon",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EstreUI.js",
+          "description": "Mobile-first SPA+PWA framework designed for native-like experience with ES11 and jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-14T22:30:40Z",
+            "owner": "SoliEstre",
+            "repo": "EstreUI.js",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": "Best practices of integrating client-side jQuery with server-side technologies.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "PHP:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "symfony-collection",
+              "description": "jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-03-05T19:02:46Z",
+                "owner": "ninsuo",
+                "repo": "symfony-collection",
+                "stars": 438
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jquery-ui-rails",
+              "description": "jQuery UI for the Rails asset pipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2025-04-30T18:32:29Z",
+                "owner": "jquery-ui-rails",
+                "repo": "jquery-ui-rails",
+                "stars": 1121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jquery-rails",
+              "description": "A gem to automate using jQuery with Rails.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2025-10-21T20:23:08Z",
+                "owner": "rails",
+                "repo": "jquery-rails",
+                "stars": 943
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Server-side Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-javascript",
+          "description": "Awesome JavaScript list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T19:54:43Z",
+            "owner": "sorrycc",
+            "repo": "awesome-javascript",
+            "stars": 35018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-must-watch",
+          "description": "List of must-watch videos devoted to JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-20T09:29:27Z",
+            "owner": "bolshchikov",
+            "repo": "js-must-watch",
+            "stars": 13601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-javascript-books",
+          "description": "Awesome JavaScript books",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-10-13T02:32:50Z",
+            "owner": "heatroom",
+            "repo": "awesome-javascript-books",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Awesome lists:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome",
+              "description": "Awesome lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-30T18:21:16Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 495056
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lists",
+              "description": "Awesome lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-03-23T20:19:22Z",
+                "owner": "jnv",
+                "repo": "lists",
+                "stars": 11413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emijrp/awesome-awesome",
+              "description": "Awesome lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-07-31T23:19:05Z",
+                "owner": "emijrp",
+                "repo": "awesome-awesome",
+                "stars": 3194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "erichs/awesome-awesome",
+              "description": "Awesome lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-11-13T08:33:34Z",
+                "owner": "erichs",
+                "repo": "awesome-awesome",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-all",
+              "description": "Awesome lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2024-10-16T11:44:37Z",
+                "owner": "bradoyler",
+                "repo": "awesome-all",
+                "stars": 235
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Translations:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chinese",
+              "description": "Chinese translation of Awesome jQuery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-06-09T03:20:14Z",
+                "owner": "Iamlars",
+                "repo": "awesome-jquery",
+                "stars": 11
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Looking for more lists like this?"
+    },
+    {
+      "description": "You are most welcome to contribute to this awesome jQuery list as well. Big thanks to all contributors who have helped to build this list.\n\nTo the extent possible under law, Peter Kokot has waived all copyright and related or neighboring rights to this work.\nBack to top",
+      "items": [],
+      "title": "Contributing and License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:26.911Z",
+    "original_repository": "petk/awesome-jquery",
+    "original_repository_sha": "13ae14d4f9d34de761c3198e2ed6ed03af97c4f0",
+    "enhanced_repository": "enhansome/enhansome-jquery",
+    "enhanced_repository_description": null,
+    "title": "Awesome jQuery with stars"
+  }
+}
