@@ -19,7 +19,7 @@
             "last_commit": "2026-03-17T16:13:31Z",
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35414
+            "stars": 35412
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2022-05-11T11:39:51Z",
             "owner": "pixelcog",
             "repo": "parallax.js",
-            "stars": 3535
+            "stars": 3534
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-04-08T09:52:14Z",
             "owner": "blueimp",
             "repo": "jQuery-File-Upload",
-            "stars": 30724
+            "stars": 30723
           }
         },
         {
@@ -238,10 +238,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T17:40:54Z",
+            "last_commit": "2026-08-15T13:03:27Z",
             "owner": "select2",
             "repo": "select2",
-            "stars": 25911
+            "stars": 25912
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-05-27T21:17:31Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67643
+            "stars": 67646
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-08-01T15:56:54Z",
             "owner": "kenwheeler",
             "repo": "slick",
-            "stars": 28563
+            "stars": 28562
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2024-08-03T17:20:15Z",
             "owner": "OwlCarousel2",
             "repo": "OwlCarousel2",
-            "stars": 7905
+            "stars": 7904
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2024-04-11T10:21:12Z",
             "owner": "benpickles",
             "repo": "peity",
-            "stars": 4214
+            "stars": 4213
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2025-10-07T22:02:34Z",
             "owner": "orion3dgames",
             "repo": "gridder",
-            "stars": 458
+            "stars": 459
           }
         },
         {
@@ -740,20 +740,6 @@
         },
         {
           "node_type": "item",
-          "title": "Superfish",
-          "description": "Adds usability enhancements to existing multi-level drop-down menus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-06T22:18:26Z",
-            "owner": "joeldbirch",
-            "repo": "superfish",
-            "stars": 910
-          }
-        },
-        {
-          "node_type": "item",
           "title": "jPanelMenu",
           "description": "Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).",
           "children": [],
@@ -763,6 +749,20 @@
             "last_commit": "2017-04-17T12:57:49Z",
             "owner": "acolangelo",
             "repo": "jPanelMenu",
+            "stars": 909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superfish",
+          "description": "Adds usability enhancements to existing multi-level drop-down menus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T22:18:26Z",
+            "owner": "joeldbirch",
+            "repo": "superfish",
             "stars": 909
           }
         },
@@ -839,7 +839,7 @@
             "last_commit": "2026-04-13T06:58:58Z",
             "owner": "lokesh",
             "repo": "lightbox2",
-            "stars": 6374
+            "stars": 6373
           }
         },
         {
@@ -1159,7 +1159,7 @@
             "last_commit": "2026-08-02T01:02:59Z",
             "owner": "rmm5t",
             "repo": "jquery-timeago",
-            "stars": 3794
+            "stars": 3795
           }
         },
         {
@@ -1433,7 +1433,7 @@
             "last_commit": "2024-06-07T11:46:14Z",
             "owner": "bevacqua",
             "repo": "dragula",
-            "stars": 22140
+            "stars": 22141
           }
         },
         {
@@ -1549,7 +1549,7 @@
                 "last_commit": "2025-04-30T18:32:29Z",
                 "owner": "jquery-ui-rails",
                 "repo": "jquery-ui-rails",
-                "stars": 1121
+                "stars": 1120
               }
             },
             {
@@ -1563,7 +1563,7 @@
                 "last_commit": "2025-10-21T20:23:08Z",
                 "owner": "rails",
                 "repo": "jquery-rails",
-                "stars": 943
+                "stars": 944
               }
             }
           ]
@@ -1632,7 +1632,7 @@
                 "last_commit": "2026-06-30T18:21:16Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 495707
+                "stars": 496048
               }
             },
             {
@@ -1646,7 +1646,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11417
+                "stars": 11419
               }
             },
             {
@@ -1660,7 +1660,7 @@
                 "last_commit": "2024-07-31T23:19:05Z",
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3197
+                "stars": 3198
               }
             },
             {
@@ -1724,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:00:35.274Z",
+    "last_updated": "2026-08-15T17:31:19.578Z",
     "original_repository": "petk/awesome-jquery",
     "original_repository_sha": "13ae14d4f9d34de761c3198e2ed6ed03af97c4f0",
     "enhanced_repository": "enhansome/enhansome-jquery",
