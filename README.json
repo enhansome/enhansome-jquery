@@ -19,7 +19,7 @@
             "last_commit": "2026-03-17T16:13:31Z",
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35412
+            "stars": 35410
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2020-09-03T15:39:25Z",
             "owner": "bergie",
             "repo": "hallo",
-            "stars": 2449
+            "stars": 2444
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2024-08-03T17:20:15Z",
             "owner": "OwlCarousel2",
             "repo": "OwlCarousel2",
-            "stars": 7904
+            "stars": 7902
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2020-07-21T10:46:15Z",
             "owner": "fengyuanchen",
             "repo": "cropper",
-            "stars": 7679
+            "stars": 7678
           }
         },
         {
@@ -1585,7 +1585,7 @@
             "last_commit": "2026-07-31T19:54:43Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35019
+            "stars": 35018
           }
         },
         {
@@ -1632,7 +1632,7 @@
                 "last_commit": "2026-06-30T18:21:16Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 496048
+                "stars": 496443
               }
             },
             {
@@ -1646,7 +1646,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11419
+                "stars": 11420
               }
             },
             {
@@ -1724,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:31:19.578Z",
+    "last_updated": "2026-08-16T17:29:39.377Z",
     "original_repository": "petk/awesome-jquery",
     "original_repository_sha": "13ae14d4f9d34de761c3198e2ed6ed03af97c4f0",
     "enhanced_repository": "enhansome/enhansome-jquery",
