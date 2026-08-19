@@ -249,7 +249,7 @@
                 "last_commit": "2026-08-17T17:49:30Z",
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25913
+                "stars": 25912
               }
             },
             {
@@ -406,7 +406,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67642
+                "stars": 67643
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-01T15:56:54Z",
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28557
+                "stars": 28556
               }
             },
             {
@@ -526,7 +526,7 @@
                 "last_commit": "2022-10-09T15:46:07Z",
                 "owner": "robicch",
                 "repo": "jQueryGantt",
-                "stars": 2248
+                "stars": 2249
               }
             },
             {
@@ -1430,7 +1430,7 @@
                 "last_commit": "2026-08-13T07:45:43Z",
                 "owner": "autoNumeric",
                 "repo": "autoNumeric",
-                "stars": 1806
+                "stars": 1805
               }
             },
             {
@@ -1680,10 +1680,10 @@
             "archived": false,
             "id": 21393871,
             "language": null,
-            "last_commit": "2026-08-17T07:30:04Z",
+            "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35015
+            "stars": 35016
           }
         },
         {
@@ -1733,7 +1733,7 @@
                 "last_commit": "2026-08-18T13:28:50Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 497663
+                "stars": 497752
               }
             },
             {
@@ -1748,7 +1748,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11422
+                "stars": 11421
               }
             },
             {
@@ -1825,7 +1825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:16.896Z",
+    "last_updated": "2026-08-19T17:36:05.343Z",
     "original_repository": "petk/awesome-jquery",
     "original_repository_id": 25960710,
     "original_repository_sha": "13ae14d4f9d34de761c3198e2ed6ed03af97c4f0",
