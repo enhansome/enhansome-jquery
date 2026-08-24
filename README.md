@@ -1,6 +1,6 @@
 # Awesome jQuery with stars
 
-[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18">](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
+[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18">](https://github.com/sindresorhus/awesome) ⭐ 499,558 | 🐛 106 | 📅 2026-08-21
 [![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-jquery/commits/master) ⭐ 981 | 🐛 0 | 📅 2026-01-01
@@ -155,7 +155,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Plugins for Forms, AJAX, validation.*
 
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) ⚠️ Archived - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video.
-* [Select2](https://github.com/select2/select2) ⭐ 25,909 | 🐛 132 | 🌐 JavaScript | 📅 2026-08-17 - Select box with support for searching, tagging, remote data sets, infinite scrolling.
+* [Select2](https://github.com/select2/select2) ⭐ 25,908 | 🐛 132 | 🌐 JavaScript | 📅 2026-08-17 - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 * [selectize.js](https://github.com/selectize/selectize.js/) ⚠️ Archived - jQuery based hybrid of a textbox and \<select> box.
 * [Pickadate](https://github.com/amsul/pickadate.js) ⭐ 7,652 | 🐛 315 | 🌐 JavaScript | 📅 2023-07-14 - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [jQuery Form Plugin](https://github.com/jquery-form/form) ⭐ 5,147 | 🐛 35 | 🌐 JavaScript | 📅 2024-01-10 - Easy and unobtrusive HTML forms upgrade to use AJAX.
@@ -235,7 +235,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Grid plugins and plugins for creating and showcasing data in form of tables.*
 
 * [Isotope](https://github.com/metafizzy/isotope) ⭐ 11,101 | 🐛 76 | 🌐 HTML | 📅 2021-09-24 - Filter & sort magical layouts.
-* [jqGrid](https://github.com/tonytomov/jqGrid) ⭐ 2,839 | 🐛 57 | 🌐 JavaScript | 📅 2026-07-10 - Grid plugin.
+* [jqGrid](https://github.com/tonytomov/jqGrid) ⭐ 2,838 | 🐛 57 | 🌐 JavaScript | 📅 2026-07-10 - Grid plugin.
 * [FooTable](https://github.com/fooplugins/FooTable/) ⭐ 2,107 | 🐛 228 | 🌐 JavaScript | 📅 2026-05-12 - Make HTML tables responsive.
 * [jsGrid](https://github.com/tabalinas/jsgrid) ⭐ 1,520 | 🐛 376 | 🌐 JavaScript | 📅 2023-04-04 - Lightweight grid plugin.
 * [FloatThead](https://github.com/mkoryak/floatThead) ⭐ 1,213 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-13 - Sticky headers. Supports responsive, window and overflow scrolling.
@@ -378,13 +378,13 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 ## Looking for more lists like this?
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,021 | 🐛 30 | 📅 2026-08-19 - Awesome JavaScript list
-* [js-must-watch](https://github.com/bolshchikov/js-must-watch) ⭐ 13,607 | 🐛 0 | 📅 2022-01-20 - List of must-watch videos devoted to JavaScript
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,022 | 🐛 30 | 📅 2026-08-19 - Awesome JavaScript list
+* [js-must-watch](https://github.com/bolshchikov/js-must-watch) ⭐ 13,608 | 🐛 0 | 📅 2022-01-20 - List of must-watch videos devoted to JavaScript
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - Awesome JavaScript books
 * Awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 - Awesome lists
-  * [lists](https://github.com/jnv/lists) ⭐ 11,437 | 🐛 22 | 📅 2026-03-23 - Awesome lists
-  * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,201 | 🐛 25 | 📅 2024-07-31 - Awesome lists
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,558 | 🐛 106 | 📅 2026-08-21 - Awesome lists
+  * [lists](https://github.com/jnv/lists) ⭐ 11,438 | 🐛 22 | 📅 2026-03-23 - Awesome lists
+  * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,202 | 🐛 25 | 📅 2024-07-31 - Awesome lists
   * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 - Awesome lists
   * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 236 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 - Awesome lists
   * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - Awesome lists
