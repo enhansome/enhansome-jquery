@@ -1,7 +1,101 @@
 {
   "items": [
     {
-      "description": "Animations, transitions.\nBack to top",
+      "description": "Awesome learning material to get to know jQuery and JavaScript or learn something more advanced. Some friendly advice: Before diving deep into jQuery learn JavaScript well.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jQuery guide for teams",
+          "description": "Tips to write consistent jQuery code, easy to use and understand by your team.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 53977497,
+            "language": null,
+            "last_commit": "2018-09-17T17:02:20Z",
+            "owner": "voorhoede",
+            "repo": "jquery-style-guide",
+            "stars": 32
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jQuery patterns",
+              "description": "A variety of jQuery plugin patterns for jump starting your plugin development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2310149,
+                "language": "JavaScript",
+                "last_commit": "2016-01-30T14:06:23Z",
+                "owner": "jquery-boilerplate",
+                "repo": "jquery-patterns",
+                "stars": 1569
+              }
+            }
+          ],
+          "description": "Awesome free tutorials and courses to learn jQuery.",
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jQuery fundamentals",
+                  "description": "Comfortable working through common problems you'll be called upon to solve using jQuery.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 30267666,
+                    "language": "HTML",
+                    "last_commit": "2023-08-16T17:54:17Z",
+                    "owner": "bocoup",
+                    "repo": "jqfundamentals.com",
+                    "stars": 182
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Free Books"
+            }
+          ],
+          "description": "Recommended and not too much outdated jQuery books.",
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TodoMVC",
+              "description": "Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including jQuery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1844251,
+                "language": "JavaScript",
+                "last_commit": "2026-06-06T23:35:53Z",
+                "owner": "tastejs",
+                "repo": "todomvc",
+                "stars": 28949
+              }
+            }
+          ],
+          "description": "Various types of resources.",
+          "node_type": "group",
+          "title": "Miscellaneous Resources"
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "Animations, transitions.",
       "items": [
         {
           "node_type": "item",
@@ -15,7 +109,7 @@
             "last_commit": "2026-03-17T16:13:31Z",
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35407
+            "stars": 35406
           }
         },
         {
@@ -30,7 +124,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -216,7 +310,7 @@
               }
             }
           ],
-          "description": "WYSIWYG editors.\nBack to top",
+          "description": "WYSIWYG editors.",
           "node_type": "group",
           "title": "Editors"
         },
@@ -234,7 +328,7 @@
                 "last_commit": "2026-04-08T09:52:14Z",
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30719
+                "stars": 30718
               }
             },
             {
@@ -249,7 +343,7 @@
                 "last_commit": "2026-08-17T17:49:30Z",
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25910
+                "stars": 25909
               }
             },
             {
@@ -279,7 +373,7 @@
                 "last_commit": "2023-07-14T10:02:54Z",
                 "owner": "amsul",
                 "repo": "pickadate.js",
-                "stars": 7651
+                "stars": 7652
               }
             },
             {
@@ -294,7 +388,7 @@
                 "last_commit": "2024-01-10T03:38:00Z",
                 "owner": "jquery-form",
                 "repo": "form",
-                "stars": 5148
+                "stars": 5147
               }
             },
             {
@@ -388,7 +482,7 @@
               }
             }
           ],
-          "description": "Plugins for Forms, AJAX, validation.\nBack to top",
+          "description": "Plugins for Forms, AJAX, validation.",
           "node_type": "group",
           "title": "Forms"
         },
@@ -406,7 +500,7 @@
                 "last_commit": "2026-05-27T21:17:31Z",
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67659
+                "stars": 67660
               }
             },
             {
@@ -436,7 +530,7 @@
                 "last_commit": "2024-08-03T17:20:15Z",
                 "owner": "OwlCarousel2",
                 "repo": "OwlCarousel2",
-                "stars": 7900
+                "stars": 7898
               }
             },
             {
@@ -526,7 +620,7 @@
                 "last_commit": "2022-10-09T15:46:07Z",
                 "owner": "robicch",
                 "repo": "jQueryGantt",
-                "stars": 2250
+                "stars": 2251
               }
             },
             {
@@ -680,7 +774,7 @@
               }
             }
           ],
-          "description": "Plugins related to images, image manipulation, galleries, maps and charts.\nBack to top",
+          "description": "Plugins related to images, image manipulation, galleries, maps and charts.",
           "node_type": "group",
           "title": "Images, Maps and Charts"
         },
@@ -822,7 +916,7 @@
               }
             }
           ],
-          "description": "Menus animation, usability enhancements and beautification.\nBack to top",
+          "description": "Menus animation, usability enhancements and beautification.",
           "node_type": "group",
           "title": "Menus"
         },
@@ -840,7 +934,7 @@
                 "last_commit": "2023-04-15T22:54:03Z",
                 "owner": "t4t5",
                 "repo": "sweetalert",
-                "stars": 22262
+                "stars": 22261
               }
             },
             {
@@ -1009,7 +1103,7 @@
               }
             }
           ],
-          "description": "Plugins for modals (dialog box/popups), tooltips, and similar popup windows.\nBack to top",
+          "description": "Plugins for modals (dialog box/popups), tooltips, and similar popup windows.",
           "node_type": "group",
           "title": "Modals and Popups"
         },
@@ -1027,7 +1121,7 @@
                 "last_commit": "2021-09-24T03:20:14Z",
                 "owner": "metafizzy",
                 "repo": "isotope",
-                "stars": 11102
+                "stars": 11101
               }
             },
             {
@@ -1211,7 +1305,7 @@
               }
             }
           ],
-          "description": "Grid plugins and plugins for creating and showcasing data in form of tables.\nBack to top",
+          "description": "Grid plugins and plugins for creating and showcasing data in form of tables.",
           "node_type": "group",
           "title": "Tables"
         },
@@ -1248,7 +1342,7 @@
               }
             }
           ],
-          "description": "Plugins for handling, manipulating or formating time and date.\nBack to top",
+          "description": "Plugins for handling, manipulating or formating time and date.",
           "node_type": "group",
           "title": "Time and Date"
         },
@@ -1300,7 +1394,7 @@
               }
             }
           ],
-          "description": "Internationalization (i18n) and localization (l10n).\nBack to top",
+          "description": "Internationalization (i18n) and localization (l10n).",
           "node_type": "group",
           "title": "Translations"
         },
@@ -1318,7 +1412,7 @@
                 "last_commit": "2026-06-29T19:09:57Z",
                 "owner": "jquery-validation",
                 "repo": "jquery-validation",
-                "stars": 10317
+                "stars": 10316
               }
             },
             {
@@ -1333,7 +1427,7 @@
                 "last_commit": "2021-09-09T14:10:33Z",
                 "owner": "posabsolute",
                 "repo": "jQuery-Validation-Engine",
-                "stars": 2536
+                "stars": 2535
               }
             },
             {
@@ -1382,7 +1476,7 @@
               }
             }
           ],
-          "description": "Validation plugins.\nBack to top",
+          "description": "Validation plugins.",
           "node_type": "group",
           "title": "Validation"
         },
@@ -1464,7 +1558,7 @@
               }
             }
           ],
-          "description": "Plugins that couldn't be sorted in above categories yet.\nBack to top",
+          "description": "Plugins that couldn't be sorted in above categories yet.",
           "node_type": "group",
           "title": "Miscellaneous Plugins"
         }
@@ -1472,7 +1566,7 @@
       "title": "Animation"
     },
     {
-      "description": "Mobile section.\nBack to top",
+      "description": "Mobile section.",
       "items": [
         {
           "node_type": "item",
@@ -1508,7 +1602,7 @@
       "title": "Mobile"
     },
     {
-      "description": "User Interface section.\nBack to top",
+      "description": "User Interface section.",
       "items": [
         {
           "node_type": "item",
@@ -1604,7 +1698,7 @@
       "title": "UI"
     },
     {
-      "description": "Best practices of integrating client-side jQuery with server-side technologies.\nBack to top",
+      "description": "Best practices of integrating client-side jQuery with server-side technologies.",
       "items": [
         {
           "node_type": "group",
@@ -1669,7 +1763,7 @@
       "title": "Server-side Integrations"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1683,7 +1777,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35018
+            "stars": 35021
           }
         },
         {
@@ -1733,7 +1827,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499225
+                "stars": 499514
               }
             },
             {
@@ -1748,7 +1842,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11434
+                "stars": 11437
               }
             },
             {
@@ -1825,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:30:35.366Z",
+    "last_updated": "2026-08-24T14:13:55.850Z",
     "original_repository": "petk/awesome-jquery",
     "original_repository_id": 25960710,
     "original_repository_sha": "13ae14d4f9d34de761c3198e2ed6ed03af97c4f0",
