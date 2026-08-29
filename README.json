@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Opinionated jQuery Style Guide for teams.",
+            "homepage": null,
             "id": 53977497,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2018-09-17T17:02:20Z",
+            "open_issues": 1,
             "owner": "voorhoede",
             "repo": "jquery-style-guide",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A variety of jQuery plugin patterns for jump starting your plugin development",
+                "homepage": null,
                 "id": 2310149,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-30T14:06:23Z",
+                "open_issues": 9,
                 "owner": "jquery-boilerplate",
                 "repo": "jquery-patterns",
-                "stars": 1569
+                "stars": 1569,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -53,12 +63,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "jQuery Fundamentals",
+                    "homepage": "http://jqfundamentals.com/",
                     "id": 30267666,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2023-08-16T17:54:17Z",
+                    "open_issues": 0,
                     "owner": "bocoup",
                     "repo": "jqfundamentals.com",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:58.789Z"
                 }
@@ -81,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more",
+                "homepage": "http://todomvc.com",
                 "id": 1844251,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-06T23:35:53Z",
+                "open_issues": 72,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28950
+                "stars": 28950,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -108,12 +128,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
+            "homepage": "http://alvarotrigo.com/fullPage/",
             "id": 12972263,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-17T16:13:31Z",
+            "open_issues": 129,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35401
+            "stars": 35401,
+            "topics": [
+              "fullpage",
+              "fullscreen",
+              "javascript",
+              "jquery",
+              "mousewheel",
+              "onepage",
+              "scrolling",
+              "sections",
+              "slide",
+              "slideshow",
+              "snap",
+              "swipe"
+            ]
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -124,12 +162,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -140,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super-smooth CSS3 transformations and transitions for jQuery",
+            "homepage": "http://ricostacruz.com/jquery.transit",
             "id": 2762270,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-01-18T08:56:25Z",
+            "open_issues": 135,
             "owner": "rstacruz",
             "repo": "jquery.transit",
-            "stars": 7233
+            "stars": 7233,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -156,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and easy jQuery plugin for CSS animated page transitions.",
+            "homepage": "http://git.blivesta.com/animsition",
             "id": 14823879,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-11-19T05:15:32Z",
+            "open_issues": 78,
             "owner": "blivesta",
             "repo": "animsition",
-            "stars": 3781
+            "stars": 3781,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -172,12 +246,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Switch your nav's design on the fly",
+            "homepage": "http://aerolab.github.io/midnight.js/",
             "id": 24474598,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-04T23:59:58Z",
+            "open_issues": 26,
             "owner": "Aerolab",
             "repo": "midnight.js",
-            "stars": 3649
+            "stars": 3649,
+            "topics": [
+              "css",
+              "javascript",
+              "midnight",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -188,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin",
+            "homepage": null,
             "id": 20625687,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-11T11:39:51Z",
+            "open_issues": 47,
             "owner": "pixelcog",
             "repo": "parallax.js",
-            "stars": 3532
+            "stars": 3532,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -204,12 +293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Click effect inspired by Google's Material Design",
+            "homepage": "http://fians.github.io/Waves/",
             "id": 21818328,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-11T04:37:25Z",
+            "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3462
+            "stars": 3462,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -220,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jQuery plugin that assists scrolling and snaps to sections.",
+            "homepage": null,
             "id": 20614352,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-13T12:28:07Z",
+            "open_issues": 136,
             "owner": "lukehaas",
             "repo": "Scrollify",
-            "stars": 1810
+            "stars": 1810,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -236,12 +335,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, simple to use jQuery plugin to animate SVG paths",
+            "homepage": "http://lcdsantos.github.io/jquery-drawsvg/",
             "id": 42251278,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-22T01:07:06Z",
+            "open_issues": 8,
             "owner": "lcdsantos",
             "repo": "jquery-drawsvg",
-            "stars": 767
+            "stars": 767,
+            "topics": [
+              "animation",
+              "jquery",
+              "jquery-plugin",
+              "svg",
+              "svg-animations"
+            ]
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -252,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.",
+            "homepage": null,
             "id": 27613185,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-02-25T21:35:46Z",
+            "open_issues": 20,
             "owner": "joaopereirawd",
             "repo": "fakeLoader.js",
-            "stars": 715
+            "stars": 715,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -268,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).",
+            "homepage": null,
             "id": 27269232,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-05-09T17:03:55Z",
+            "open_issues": 4,
             "owner": "aaronlumsden",
             "repo": "Material-Preloader",
-            "stars": 367
+            "stars": 367,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -286,12 +406,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The next generation Javascript WYSIWYG HTML Editor.",
+                "homepage": "https://www.froala.com/wysiwyg-editor",
                 "id": 16466496,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T10:29:53Z",
+                "open_issues": 425,
                 "owner": "froala",
                 "repo": "wysiwyg-editor",
-                "stars": 5401
+                "stars": 5401,
+                "topics": [
+                  "froala",
+                  "javascript",
+                  "rich-text-editor",
+                  "wysiwyg",
+                  "wysiwyg-editor",
+                  "wysiwyg-html-editor"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -302,12 +434,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple rich text editor (contentEditable) for jQuery UI",
+                "homepage": "http://hallojs.org/",
                 "id": 1707621,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2020-09-03T15:39:25Z",
+                "open_issues": 97,
                 "owner": "bergie",
                 "repo": "hallo",
-                "stars": 2444
+                "stars": 2444,
+                "topics": [
+                  "jquery-ui",
+                  "rich-text-editor"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -318,12 +458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern, simple and elegant WYSIWYG rich text editor.",
+                "homepage": null,
                 "id": 16031396,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2020-04-13T20:20:10Z",
+                "open_issues": 56,
                 "owner": "raphaelcruzeiro",
                 "repo": "jquery-notebook",
-                "stars": 1679
+                "stars": 1679,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -341,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+                "homepage": "https://blueimp.github.io/jQuery-File-Upload/",
                 "id": 1129010,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-08T09:52:14Z",
+                "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30714
+                "stars": 30714,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -357,12 +507,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
+                "homepage": "https://select2.org/",
                 "id": 3620194,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T19:57:25Z",
+                "open_issues": 133,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25907
+                "stars": 25907,
+                "topics": [
+                  "hacktoberfest",
+                  "javascript",
+                  "jquery",
+                  "select2"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -373,12 +533,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Selectize is the hybrid of a textbox and <select> box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.",
+                "homepage": "https://selectize.dev/",
                 "id": 5604798,
                 "language": "SCSS",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-15T03:14:34Z",
+                "open_issues": 37,
                 "owner": "selectize",
                 "repo": "selectize.js",
-                "stars": 13023
+                "stars": 13023,
+                "topics": [
+                  "bootstrap",
+                  "css",
+                  "hacktoberfest",
+                  "input",
+                  "javascript",
+                  "jquery",
+                  "jquery-plugin",
+                  "select",
+                  "tagging"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -389,12 +564,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The mobile-friendly, responsive, and lightweight jQuery date & time input picker.",
+                "homepage": "http://amsul.ca/pickadate.js",
                 "id": 6714787,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-14T10:02:54Z",
+                "open_issues": 315,
                 "owner": "amsul",
                 "repo": "pickadate.js",
-                "stars": 7650
+                "stars": 7650,
+                "topics": [
+                  "calendar",
+                  "date",
+                  "picker",
+                  "time"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -405,12 +590,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery Form Plugin",
+                "homepage": "https://jquery-form.github.io/form/",
                 "id": 114732,
                 "language": "JavaScript",
+                "license": "LGPL-2.1",
                 "last_commit": "2024-01-10T03:38:00Z",
+                "open_issues": 35,
                 "owner": "jquery-form",
                 "repo": "form",
-                "stars": 5147
+                "stars": 5147,
+                "topics": [
+                  "ajax",
+                  "ajax-form",
+                  "form",
+                  "form-serialization",
+                  "html-form",
+                  "javascript",
+                  "jquery",
+                  "jquery-form",
+                  "jquery-plugin",
+                  "json",
+                  "json-form"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -421,12 +623,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JQuery multiselect plugin based on Twitter Bootstrap.",
+                "homepage": "https://davidstutz.github.io/bootstrap-multiselect/",
                 "id": 6162900,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-15T14:07:52Z",
+                "open_issues": 314,
                 "owner": "davidstutz",
                 "repo": "bootstrap-multiselect",
-                "stars": 3675
+                "stars": 3675,
+                "topics": [
+                  "bootstrap-multiselect",
+                  "jquery-plugin",
+                  "twitter-bootstrap"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -437,12 +648,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.",
+                "homepage": "http://miromannino.github.io/Justified-Gallery/",
                 "id": 6418800,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:53:48Z",
+                "open_issues": 142,
                 "owner": "miromannino",
                 "repo": "Justified-Gallery",
-                "stars": 1747
+                "stars": 1747,
+                "topics": [
+                  "bricklayer",
+                  "css-animations",
+                  "gallery",
+                  "infinite-scroll",
+                  "javascript",
+                  "justification",
+                  "justified-layout",
+                  "mason",
+                  "masonry",
+                  "masonry-layout",
+                  "thumbnails"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -453,12 +681,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery MiniColors Plugin",
+                "homepage": null,
                 "id": 2784030,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-20T08:29:40Z",
+                "open_issues": 32,
                 "owner": "claviska",
                 "repo": "jquery-minicolors",
-                "stars": 953
+                "stars": 953,
+                "topics": [
+                  "color-picker",
+                  "javascript",
+                  "jquery"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -469,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A lightweight and beautiful jQuery plugin for radio and checkbox inputs.",
+                "homepage": "http://labelauty.js.org",
                 "id": 12510317,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2017-10-11T00:25:35Z",
+                "open_issues": 7,
                 "owner": "fntneves",
                 "repo": "jquery-labelauty",
-                "stars": 876
+                "stars": 876,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -485,12 +727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ultimate framework for building and validating responsive HTML5 forms.",
+                "homepage": null,
                 "id": 13313409,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-01T12:28:14Z",
+                "open_issues": 26,
                 "owner": "elclanrs",
                 "repo": "jq-idealforms",
-                "stars": 720
+                "stars": 720,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -501,12 +748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":credit_card: A library for building credit card forms, validating inputs, and formatting numbers.",
+                "homepage": "https://jondavidjohn.github.io/payform/",
                 "id": 30034617,
                 "language": "CoffeeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-06-22T02:27:21Z",
+                "open_issues": 20,
                 "owner": "jondavidjohn",
                 "repo": "payform",
-                "stars": 426
+                "stars": 426,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -524,12 +776,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple HTML5 Charts using the <canvas> tag",
+                "homepage": "https://www.chartjs.org/",
                 "id": 8843683,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-27T21:17:31Z",
+                "open_issues": 584,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67670
+                "stars": 67670,
+                "topics": [
+                  "canvas",
+                  "chart",
+                  "graph",
+                  "html5",
+                  "html5-charts",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -540,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the last carousel you'll ever need",
+                "homepage": "kenwheeler.github.io/slick",
                 "id": 18049133,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T15:56:54Z",
+                "open_issues": 1317,
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28551
+                "stars": 28551,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -556,12 +825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DEPRECATED jQuery Responsive Carousel.",
+                "homepage": "http://owlcarousel2.github.io/OwlCarousel2/",
                 "id": 18782726,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-03T17:20:15Z",
+                "open_issues": 1194,
                 "owner": "OwlCarousel2",
                 "repo": "OwlCarousel2",
-                "stars": 7897
+                "stars": 7897,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -572,12 +846,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-cropper",
+                "homepage": null,
                 "id": 16977232,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-21T10:46:15Z",
+                "open_issues": 0,
                 "owner": "fengyuanchen",
                 "repo": "cropper",
-                "stars": 7675
+                "stars": 7675,
+                "topics": [
+                  "cropper",
+                  "image-cropper",
+                  "image-processing",
+                  "jquery",
+                  "jquery-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -588,12 +873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attractive JavaScript charts for jQuery",
+                "homepage": "http://www.flotcharts.org/",
                 "id": 1295612,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-08T19:56:18Z",
+                "open_issues": 630,
                 "owner": "flot",
                 "repo": "flot",
-                "stars": 5909
+                "stars": 5909,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -604,12 +894,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍰 Progressive <svg> pie, donut, bar and line charts",
+                "homepage": "http://benpickles.github.io/peity",
                 "id": 379530,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-04-11T10:21:12Z",
+                "open_issues": 23,
                 "owner": "benpickles",
                 "repo": "peity",
-                "stars": 4214
+                "stars": 4214,
+                "topics": [
+                  "chart",
+                  "jquery",
+                  "jquery-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -620,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.",
+                "homepage": "http://www.jquery-backstretch.com",
                 "id": 440647,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-08-20T22:41:22Z",
+                "open_issues": 216,
                 "owner": "jquery-backstretch",
                 "repo": "jquery-backstretch",
-                "stars": 3881
+                "stars": 3881,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -636,12 +940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a graph visualization library using web workers and jQuery",
+                "homepage": "http://arborjs.org",
                 "id": 1246599,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-04-10T22:24:22Z",
+                "open_issues": 56,
                 "owner": "samizdatco",
                 "repo": "arbor",
-                "stars": 2658
+                "stars": 2658,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -652,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery Gantt editor",
+                "homepage": null,
                 "id": 5510063,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-09T15:46:07Z",
+                "open_issues": 24,
                 "owner": "robicch",
                 "repo": "jQueryGantt",
-                "stars": 2251
+                "stars": 2251,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -668,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser",
+                "homepage": "http://omnipotent.net/jquery.sparkline/",
                 "id": 4172236,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-04-10T23:24:43Z",
+                "open_issues": 143,
                 "owner": "gwatts",
                 "repo": "jquery.sparkline",
-                "stars": 1236
+                "stars": 1236,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -684,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Nivo Slider - The Most Awesome jQuery Image Slider",
+                "homepage": "http://docs.themeisle.com/article/485-getting-started-with-the-nivo-slider-jquery-plugin",
                 "id": 585288,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-27T12:58:22Z",
+                "open_issues": 277,
                 "owner": "Codeinwp",
                 "repo": "Nivo-Slider-jQuery",
-                "stars": 1234
+                "stars": 1234,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -700,12 +1024,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-viewer",
+                "homepage": null,
                 "id": 41791551,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-21T11:02:46Z",
+                "open_issues": 0,
                 "owner": "fengyuanchen",
                 "repo": "viewer",
-                "stars": 1018
+                "stars": 1018,
+                "topics": [
+                  "image-viewer",
+                  "jquery",
+                  "jquery-plugin",
+                  "viewer"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -716,12 +1050,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin based on raphael.js that allows you to display dynamic vector maps",
+                "homepage": "https://www.vincentbroute.fr/mapael/",
                 "id": 10887157,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-09T13:01:44Z",
+                "open_issues": 71,
                 "owner": "neveldo",
                 "repo": "jQuery-Mapael",
-                "stars": 1007
+                "stars": 1007,
+                "topics": [
+                  "dataviz",
+                  "javascript",
+                  "map",
+                  "raphael",
+                  "svg",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -732,12 +1078,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unite Gallery - Responsive jQuery Image and Video Gallery Plugin. Aim to be the best gallery on the web on it's kind. See demo here: ",
+                "homepage": "http://unitegallery.net",
                 "id": 28560822,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-25T06:44:46Z",
+                "open_issues": 189,
                 "owner": "vvvmax",
                 "repo": "unitegallery",
-                "stars": 528
+                "stars": 528,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -748,12 +1099,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images.",
+                "homepage": "http://orion3dgames.github.io/gridder/",
                 "id": 11629582,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-07T22:02:34Z",
+                "open_issues": 21,
                 "owner": "orion3dgames",
                 "repo": "gridder",
-                "stars": 459
+                "stars": 459,
+                "topics": [
+                  "gallery",
+                  "gridder",
+                  "jquery-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -764,12 +1124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin that makes an image erasable (with mouse or touch movements)",
+                "homepage": "http://minimal.be/lab/jQuery.eraser/",
                 "id": 2125393,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-04-17T20:39:03Z",
+                "open_issues": 11,
                 "owner": "boblemarin",
                 "repo": "jQuery.eraser",
-                "stars": 333
+                "stars": 333,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -780,12 +1145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin that blows your visitors' retinas",
+                "homepage": "http://dense.rah.pw",
                 "id": 10442055,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-09-28T11:51:02Z",
+                "open_issues": 3,
                 "owner": "gocom",
                 "repo": "dense",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -796,12 +1166,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jquery plugin for comparing two images",
+                "homepage": null,
                 "id": 60772893,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-14T08:27:01Z",
+                "open_issues": 2,
                 "owner": "sylvaincombes",
                 "repo": "jquery-images-compare",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "before-after",
+                  "compare",
+                  "compare-images",
+                  "comparison",
+                  "image",
+                  "images",
+                  "jquery",
+                  "jquery-images-compare",
+                  "jquery-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -812,12 +1197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin for AnyChart provides an easy way to use AnyChart JavaScript Charts with jQuery framework.",
+                "homepage": "https://www.anychart.com",
                 "id": 78816147,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-07T16:29:42Z",
+                "open_issues": 1,
                 "owner": "AnyChart",
                 "repo": "AnyChart-jQuery",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -835,12 +1225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.",
+                "homepage": "http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
                 "id": 8530831,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-01T09:37:40Z",
+                "open_issues": 66,
                 "owner": "kamens",
                 "repo": "jQuery-menu-aim",
-                "stars": 7620
+                "stars": 7620,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -851,12 +1246,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.",
+                "homepage": "https://mmenujs.com",
                 "id": 13765233,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-15T09:43:39Z",
+                "open_issues": 30,
                 "owner": "FrDH",
                 "repo": "mmenu-js",
-                "stars": 2565
+                "stars": 2565,
+                "topics": [
+                  "canvas-menu",
+                  "drawer",
+                  "js",
+                  "menu",
+                  "mmenu",
+                  "mmenu-plugin",
+                  "navigation",
+                  "off-canvas",
+                  "off-canvas-menu"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -867,12 +1277,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery contextMenu plugin & polyfill",
+                "homepage": "https://swisnl.github.io/jQuery-contextMenu/",
                 "id": 2008728,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-30T08:30:59Z",
+                "open_issues": 108,
                 "owner": "swisnl",
                 "repo": "jQuery-contextMenu",
-                "stars": 2244
+                "stars": 2244,
+                "topics": [
+                  "contextmenu",
+                  "hacktoberfest",
+                  "html",
+                  "html5",
+                  "jquery",
+                  "jquery-contextmenu",
+                  "jquery-plugin",
+                  "polyfill"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -883,12 +1307,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "stickUp a jQuery Plugin for sticky navigation menus.",
+                "homepage": null,
                 "id": 14054357,
                 "language": "JavaScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2016-07-08T06:19:34Z",
+                "open_issues": 50,
                 "owner": "LiranCohen",
                 "repo": "stickUp",
-                "stars": 1532
+                "stars": 1532,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -899,12 +1328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slidebars is a jQuery Framework for Off-Canvas Menus and Sidebars into your website or web app.",
+                "homepage": "http://www.adchsm.com/slidebars/",
                 "id": 15867002,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-08T07:26:10Z",
+                "open_issues": 85,
                 "owner": "adchsm",
                 "repo": "Slidebars",
-                "stars": 1480
+                "stars": 1480,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -915,12 +1349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another megamenu for Bootstrap 3",
+                "homepage": "http://geedmo.github.io/yamm3/",
                 "id": 14627493,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2021-04-01T03:05:47Z",
+                "open_issues": 0,
                 "owner": "geedmo",
                 "repo": "yamm3",
-                "stars": 1190
+                "stars": 1190,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -931,12 +1370,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A jQuery plugin that creates a paneled-style menu (like the type seen in the mobile versions of Facebook and Google, as well as in many native iPhone applications).",
+                "homepage": "http://jpanelmenu.com",
                 "id": 5850831,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-04-17T12:57:49Z",
+                "open_issues": 30,
                 "owner": "acolangelo",
                 "repo": "jPanelMenu",
-                "stars": 909
+                "stars": 909,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -947,12 +1391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Superfish is a jQuery plugin that adds usability enhancements to existing multi-level drop-down menus.",
+                "homepage": null,
                 "id": 7883071,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-06T22:18:26Z",
+                "open_issues": 34,
                 "owner": "joeldbirch",
                 "repo": "superfish",
-                "stars": 909
+                "stars": 909,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -963,12 +1412,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MultiLevelPushMenu jQuery Plugin implementation",
+                "homepage": "http://multi-level-push-menu.dzunic.net",
                 "id": 14089277,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-07-25T16:08:55Z",
+                "open_issues": 70,
                 "owner": "adgsm",
                 "repo": "multi-level-push-menu",
-                "stars": 798
+                "stars": 798,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -986,12 +1440,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful replacement for JavaScript's \"alert\"",
+                "homepage": "https://sweetalert.js.org",
                 "id": 24635156,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-15T22:54:03Z",
+                "open_issues": 199,
                 "owner": "t4t5",
                 "repo": "sweetalert",
-                "stars": 22260
+                "stars": 22260,
+                "topics": [
+                  "alert",
+                  "dialog",
+                  "javascript",
+                  "modal",
+                  "popup",
+                  "sweetalert",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1002,12 +1469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light and responsive lightbox script with focus on performance.",
+                "homepage": "http://dimsemenov.com/plugins/magnific-popup/",
                 "id": 7544081,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-08T08:20:34Z",
+                "open_issues": 678,
                 "owner": "dimsemenov",
                 "repo": "Magnific-Popup",
-                "stars": 11315
+                "stars": 11315,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1018,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern dialog library which is highly configurable and easy to style. #hubspot-open-source",
+                "homepage": "http://github.hubspot.com/vex/docs/welcome",
                 "id": 12631084,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-02-26T00:28:34Z",
+                "open_issues": 54,
                 "owner": "HubSpot",
                 "repo": "vex",
-                "stars": 6872
+                "stars": 6872,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1034,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "THE original Lightbox script (v2).",
+                "homepage": "http://lokeshdhakar.com/projects/lightbox2/",
                 "id": 2587583,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-13T06:58:58Z",
+                "open_issues": 50,
                 "owner": "lokesh",
                 "repo": "lightbox2",
-                "stars": 6372
+                "stars": 6372,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1050,12 +1532,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.",
+                "homepage": "http://jschr.github.io/bootstrap-modal/",
                 "id": 5971563,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-04-07T20:15:00Z",
+                "open_issues": 109,
                 "owner": "jschr",
                 "repo": "bootstrap-modal",
-                "stars": 4960
+                "stars": 4960,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-modal",
+                  "modal",
+                  "modalmanager"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1066,12 +1558,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The simplest possible modal for jQuery",
+                "homepage": "http://jquerymodal.com/",
                 "id": 919555,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-18T03:52:43Z",
+                "open_issues": 76,
                 "owner": "kylefox",
                 "repo": "jquery-modal",
-                "stars": 2603
+                "stars": 2603,
+                "topics": [
+                  "dialog",
+                  "javascript",
+                  "jquery",
+                  "jquery-modal",
+                  "modal",
+                  "modal-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1082,12 +1586,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Elegant, responsive, flexible and lightweight modal plugin with jQuery.",
+                "homepage": "http://marcelodolza.github.io/iziModal/",
                 "id": 56270465,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-07T01:47:13Z",
+                "open_issues": 88,
                 "owner": "marcelodolza",
                 "repo": "iziModal",
-                "stars": 2146
+                "stars": 2146,
+                "topics": [
+                  "dialog",
+                  "javascript",
+                  "jquery",
+                  "jquery-plugin",
+                  "modal",
+                  "modal-dialog",
+                  "modal-dialogs",
+                  "modals"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1098,12 +1616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Avgrund is jQuery plugin with new modal concept for popups",
+                "homepage": "https://labs.voronianski.dev/jquery.avgrund.js/",
                 "id": 5553935,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-09-18T20:36:00Z",
+                "open_issues": 18,
                 "owner": "voronianski",
                 "repo": "jquery.avgrund.js",
-                "stars": 1741
+                "stars": 1741,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1114,12 +1637,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "jBox is a jQuery plugin that makes it easy to create customizable tooltips, modal windows, image galleries and more.",
+                "homepage": "https://stephanwagner.me/jBox",
                 "id": 18940819,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-27T03:49:59Z",
+                "open_issues": 20,
                 "owner": "stephanwagner",
                 "repo": "jBox",
-                "stars": 1395
+                "stars": 1395,
+                "topics": [
+                  "alert",
+                  "confirm",
+                  "confirmation-dialog",
+                  "confirmation-modal",
+                  "customizable-tooltips",
+                  "dialog",
+                  "image-gallery",
+                  "javascript",
+                  "jbox",
+                  "jquery-plugin",
+                  "lightbox",
+                  "modal",
+                  "modal-dialog",
+                  "modal-window",
+                  "modal-windows",
+                  "notice",
+                  "popup",
+                  "popup-message",
+                  "popup-window",
+                  "tooltip"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1130,12 +1679,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " animatedModal.js is a jQuery plugin to create a fullscreen modal with CSS3 transitions. You can use the transitions from animate.css or create your own transitions.",
+                "homepage": null,
                 "id": 31433237,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-04-12T14:43:57Z",
+                "open_issues": 43,
                 "owner": "joaopereirawd",
                 "repo": "animatedModal.js",
-                "stars": 952
+                "stars": 952,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1146,12 +1700,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin for responsive and accessible modal windows and tooltips",
+                "homepage": "https://dev.vast.com/jquery-popup-overlay",
                 "id": 7734182,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-12-08T07:40:16Z",
+                "open_issues": 41,
                 "owner": "vast-engineering",
                 "repo": "jquery-popup-overlay",
-                "stars": 500
+                "stars": 500,
+                "topics": [
+                  "modal",
+                  "overlay",
+                  "popup",
+                  "tooltip"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1162,12 +1726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Lightweight Responsive jQuery Tooltip Plugin",
+                "homepage": "http://tipso.object505.com/",
                 "id": 27446007,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-03-20T10:20:55Z",
+                "open_issues": 26,
                 "owner": "object505",
                 "repo": "tipso",
-                "stars": 319
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -1185,12 +1754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":revolving_hearts: Filter & sort magical layouts",
+                "homepage": "https://isotope.metafizzy.co",
                 "id": 1211978,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2021-09-24T03:20:14Z",
+                "open_issues": 76,
                 "owner": "metafizzy",
                 "repo": "isotope",
-                "stars": 11102
+                "stars": 11102,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1201,12 +1775,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery grid plugin",
+                "homepage": "www.trirand.com",
                 "id": 190137,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-07-10T07:56:06Z",
+                "open_issues": 57,
                 "owner": "tonytomov",
                 "repo": "jqGrid",
-                "stars": 2838
+                "stars": 2838,
+                "topics": [
+                  "bootstrap",
+                  "export-excel",
+                  "frozenset",
+                  "grid",
+                  "javascript",
+                  "jqgrid",
+                  "jquery-grid-plugin",
+                  "json-data",
+                  "pivot-grid",
+                  "pivot-tables",
+                  "subgrid",
+                  "table",
+                  "treegrid",
+                  "xml-data"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1217,12 +1811,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin to make HTML tables responsive",
+                "homepage": "https://fooplugins.com/plugins/footable-jquery/",
                 "id": 6710201,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-12T08:55:51Z",
+                "open_issues": 228,
                 "owner": "fooplugins",
                 "repo": "FooTable",
-                "stars": 2107
+                "stars": 2107,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1233,12 +1832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight Grid jQuery Plugin",
+                "homepage": "http://js-grid.com",
                 "id": 25711561,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-04T00:37:46Z",
+                "open_issues": 376,
                 "owner": "tabalinas",
                 "repo": "jsgrid",
-                "stars": 1519
+                "stars": 1519,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1249,12 +1853,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fixed <thead>. Doesn't need any custom css/html. Does what position:sticky can't",
+                "homepage": "https://mkoryak.github.io/floatThead/",
                 "id": 5937246,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T00:16:44Z",
+                "open_issues": 3,
                 "owner": "mkoryak",
                 "repo": "floatThead",
-                "stars": 1213
+                "stars": 1213,
+                "topics": [
+                  "cats-are-cute",
+                  "floating-header",
+                  "floatthead",
+                  "header",
+                  "jquery",
+                  "scrolling",
+                  "sticky",
+                  "sticky-headers",
+                  "table"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1265,12 +1884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin for stacking tables on small screens",
+                "homepage": "http://johnpolacek.github.io/stacktable.js/",
                 "id": 7069755,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-02T19:18:31Z",
+                "open_issues": 27,
                 "owner": "johnpolacek",
                 "repo": "stacktable.js",
-                "stars": 1017
+                "stars": 1017,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1281,12 +1905,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "jQuery plugin to export a html table to JSON, XML, CSV, TSV, TXT, SQL, Word, Excel, PNG and PDF",
+                "homepage": null,
                 "id": 30406809,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-10-15T17:19:03Z",
+                "open_issues": 21,
                 "owner": "hhurz",
                 "repo": "tableExport.jquery.plugin",
-                "stars": 1006
+                "stars": 1006,
+                "topics": [
+                  "javascript",
+                  "jquery",
+                  "jspdf",
+                  "tableexport"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1297,12 +1931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nice, sleek and intuitive. A grid control especially designed for bootstrap.",
+                "homepage": "http://www.jquery-bootgrid.com",
                 "id": 19199323,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-07T04:48:57Z",
+                "open_issues": 285,
                 "owner": "rstaib",
                 "repo": "jquery-bootgrid",
-                "stars": 964
+                "stars": 964,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1313,12 +1952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin to show a tree structure in a table",
+                "homepage": "http://ludo.cubicphuse.nl/jquery-treetable",
                 "id": 58792,
                 "language": "HTML",
+                "license": "GPL-2.0",
                 "last_commit": "2024-01-26T06:22:32Z",
+                "open_issues": 48,
                 "owner": "ludo",
                 "repo": "jquery-treetable",
-                "stars": 751
+                "stars": 751,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1329,12 +1973,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stupidly small and simple jQuery table sorter plugin",
+                "homepage": null,
                 "id": 4008167,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-03T09:01:26Z",
+                "open_issues": 22,
                 "owner": "joequery",
                 "repo": "Stupid-Table-Plugin",
-                "stars": 702
+                "stars": 702,
+                "topics": [
+                  "javascript",
+                  "jquery",
+                  "jquery-plugin",
+                  "sort"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1345,12 +1999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin to convert HTML tables to HighCharts graphs",
+                "homepage": "http://highcharttable.org/",
                 "id": 2986393,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-22T22:50:49Z",
+                "open_issues": 26,
                 "owner": "highchartTable",
                 "repo": "jquery-highchartTable-plugin",
-                "stars": 269
+                "stars": 269,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1361,12 +2020,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Live searching/filtering for HTML tables in a jQuery plugin",
+                "homepage": "http://sunnywalker.github.com/jQuery.FilterTable",
                 "id": 6395115,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-05T23:02:45Z",
+                "open_issues": 22,
                 "owner": "sunnywalker",
                 "repo": "jQuery.FilterTable",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1377,12 +2041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shrinks any large data tables into compact and responsive tables",
+                "homepage": null,
                 "id": 178413979,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2020-03-04T07:31:32Z",
+                "open_issues": 1,
                 "owner": "VagnerDomingues",
                 "repo": "jquery.table-shrinker",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -1400,12 +2069,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":clock8: The original jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. \"4 minutes ago\").",
+                "homepage": "http://timeago.yarp.com",
                 "id": 35219,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T01:02:59Z",
+                "open_issues": 45,
                 "owner": "rmm5t",
                 "repo": "jquery-timeago",
-                "stars": 3793
+                "stars": 3793,
+                "topics": [
+                  "javascript",
+                  "jquery",
+                  "time",
+                  "timeago"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1416,12 +2095,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery Timer: Start/Stop/Resume/Remove pretty timer inside any HTML element.",
+                "homepage": "https://walmik.github.io/timer.jquery/",
                 "id": 3484837,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-15T19:50:54Z",
+                "open_issues": 12,
                 "owner": "walmik",
                 "repo": "timer.jquery",
-                "stars": 296
+                "stars": 296,
+                "topics": [
+                  "countdown",
+                  "duration",
+                  "jquery",
+                  "jquery-timer",
+                  "timer-displays",
+                  "timer-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -1439,12 +2130,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐 jQuery based internationalization library",
+                "homepage": null,
                 "id": 5444072,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-23T06:51:38Z",
+                "open_issues": 67,
                 "owner": "wikimedia",
                 "repo": "jquery.i18n",
-                "stars": 737
+                "stars": 737,
+                "topics": [
+                  "i18n",
+                  "intl",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1455,12 +2155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a jQuery plugin that makes it easy to internationalize your web site.  ",
+                "homepage": null,
                 "id": 98689,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-07-09T16:49:49Z",
+                "open_issues": 35,
                 "owner": "coderifous",
                 "repo": "jquery-localize",
-                "stars": 460
+                "stars": 460,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1471,12 +2176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "lightweight jQuery plugin for providing internationalization to javascript from ‘.properties’ files",
+                "homepage": null,
                 "id": 20641203,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2021-04-21T10:17:47Z",
+                "open_issues": 35,
                 "owner": "jquery-i18n-properties",
                 "repo": "jquery-i18n-properties",
-                "stars": 428
+                "stars": 428,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -1494,12 +2204,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery Validation Plugin library sources",
+                "homepage": "https://jqueryvalidation.org/",
                 "id": 648414,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-29T19:09:57Z",
+                "open_issues": 41,
                 "owner": "jquery-validation",
                 "repo": "jquery-validation",
-                "stars": 10317
+                "stars": 10317,
+                "topics": [
+                  "inline-validation",
+                  "javascript",
+                  "jquery",
+                  "jquery-validation"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1510,12 +2230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery form validation plugin",
+                "homepage": "http://www.position-absolute.com/articles/jquery-form-validator-because-form-validation-is-a-mess/",
                 "id": 276963,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-09-09T14:10:33Z",
+                "open_issues": 32,
                 "owner": "posabsolute",
                 "repo": "jQuery-Validation-Engine",
-                "stars": 2535
+                "stars": 2535,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1526,12 +2251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DISCONTINUED] jQuery plugin that makes it easy to validate user input while keeping your  HTML markup clean from javascript code.",
+                "homepage": null,
                 "id": 1077768,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-09-09T14:30:21Z",
+                "open_issues": 232,
                 "owner": "victorjonsson",
                 "repo": "jQuery-Form-Validator",
-                "stars": 962
+                "stars": 962,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1542,12 +2272,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An HTML5 form validation plugin for jQuery. Works on all major browsers, both new and old. Implements inline, realtime validation best practices (based on surveys and usability studies). Developed for production use in e-commerce. Currently in production with millions of users.",
+                "homepage": null,
                 "id": 956322,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-02-10T00:39:25Z",
+                "open_issues": 27,
                 "owner": "ericelliott",
                 "repo": "h5Validate",
-                "stars": 569
+                "stars": 569,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1558,12 +2293,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery library to validate html forms. compatible with bootstrap v4 and bootstrap v3",
+                "homepage": null,
                 "id": 140949689,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-07-27T10:59:55Z",
+                "open_issues": 1,
                 "owner": "bnabriss",
                 "repo": "jquery-form-validation",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "bootstrap",
+                  "form-validation",
+                  "html-form",
+                  "jquery",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -1581,12 +2327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jump-start for jQuery plugins development",
+                "homepage": "http://jqueryboilerplate.com",
                 "id": 1760686,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-09-30T19:32:35Z",
+                "open_issues": 11,
                 "owner": "jquery-boilerplate",
                 "repo": "jquery-boilerplate",
-                "stars": 2488
+                "stars": 2488,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1597,12 +2348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gmail-like client-side drafts and bit more. Plugin developed to save html forms data to LocalStorage to restore them after browser crashes, tabs closings and other disasters.",
+                "homepage": "http://sisyphus-js.herokuapp.com",
                 "id": 2643120,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-16T17:55:13Z",
+                "open_issues": 39,
                 "owner": "simsalabim",
                 "repo": "sisyphus",
-                "stars": 1972
+                "stars": 1972,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1613,12 +2369,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies. ",
+                "homepage": "https://autonumeric.org",
                 "id": 7608138,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T07:45:43Z",
+                "open_issues": 75,
                 "owner": "autoNumeric",
                 "repo": "autoNumeric",
-                "stars": 1805
+                "stars": 1805,
+                "topics": [
+                  "autonumeric",
+                  "input-validation",
+                  "inputmask",
+                  "javascript",
+                  "javascript-library",
+                  "library",
+                  "mask",
+                  "maskedinput",
+                  "numeric"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1629,12 +2400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight jQuery plugin for collapsing and expanding long blocks of text with \"Read more\" and \"Close\" links.",
+                "homepage": "http://jedfoster.com/Readmore.js/",
                 "id": 7308204,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-10T20:18:32Z",
+                "open_issues": 16,
                 "owner": "jedfoster",
                 "repo": "Readmore.js",
-                "stars": 1489
+                "stars": 1489,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1645,12 +2421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates a URL slug as you type a page title (like Django slugify())",
+                "homepage": "http://patrickmcelhaney.com/jQuery-Slugify-Plugin",
                 "id": 244259,
                 "language": "HTML",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-11-11T20:42:35Z",
+                "open_issues": 6,
                 "owner": "pmcelhaney",
                 "repo": "jQuery-Slugify-Plugin",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -1672,12 +2453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial scrolling for your web pages.",
+            "homepage": "http://vodkabears.github.io/interdimensional/",
             "id": 28548479,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-04-10T15:16:28Z",
+            "open_issues": 2,
             "owner": "vodkabears",
             "repo": "Interdimensional",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1688,12 +2474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple  jQuery/Zepto notification library designed to be used in mobile apps",
+            "homepage": null,
             "id": 12605305,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-24T16:16:51Z",
+            "open_issues": 2,
             "owner": "justindomingue",
             "repo": "ohSnap",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         }
@@ -1710,12 +2501,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ok_hand: Drag and drop so simple it hurts",
+            "homepage": "https://bevacqua.github.io/dragula/",
             "id": 33895378,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-07T11:46:14Z",
+            "open_issues": 159,
             "owner": "bevacqua",
             "repo": "dragula",
-            "stars": 22136
+            "stars": 22136,
+            "topics": [
+              "component",
+              "drag-and-drop",
+              "drag-drop",
+              "dragging",
+              "front-end",
+              "javascript",
+              "vanilla"
+            ]
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1726,12 +2530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery",
+            "homepage": "http://vitalets.github.io/x-editable",
             "id": 6761380,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-11T09:56:24Z",
+            "open_issues": 617,
             "owner": "vitalets",
             "repo": "x-editable",
-            "stars": 6498
+            "stars": 6498,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1742,12 +2551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jQuery tabs module for todays web!",
+            "homepage": "http://git.aaronlumsden.com/tabulous.js/",
             "id": 10826296,
             "language": "CSS",
+            "license": null,
             "last_commit": "2015-12-22T14:44:11Z",
+            "open_issues": 20,
             "owner": "aaronlumsden",
             "repo": "tabulous.js",
-            "stars": 536
+            "stars": 536,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1758,12 +2572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jQuery plugin to create draggable content splitters to emulate frames and separate content.",
+            "homepage": null,
             "id": 41993936,
             "language": "HTML",
+            "license": "LGPL-3.0",
             "last_commit": "2015-12-11T01:02:21Z",
+            "open_issues": 11,
             "owner": "hiltonjanfield",
             "repo": "jquery.enhsplitter",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1774,12 +2593,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny utility (430B) to create reactive jquery components using a JSX-like syntax",
+            "homepage": null,
             "id": 858806149,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-22T13:45:08Z",
+            "open_issues": 0,
             "owner": "LoganTann",
             "repo": "macon",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "dom",
+              "html",
+              "jquery",
+              "jsx",
+              "template-literals",
+              "utility",
+              "view",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1790,12 +2623,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Estre UI rimwork developed by requires rim(runnable frame) for Universal(Mobile & PC) Application on Web based front-end project. Powered by jQuery 4.0.",
+            "homepage": "https://estreui.mpsolutions.kr",
             "id": 879203835,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T02:15:21Z",
+            "open_issues": 0,
             "owner": "SoliEstre",
             "repo": "EstreUI.js",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ai-ready",
+              "estreui",
+              "frontend",
+              "javascript",
+              "jquery",
+              "jquery4",
+              "legacy-modernization",
+              "mobile-first",
+              "native-like",
+              "no-build",
+              "pwa",
+              "rimwork",
+              "spa",
+              "ui-framework"
+            ]
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         }
@@ -1817,12 +2670,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NOT MAINTAINED] A jQuery plugin that manages adding, deleting and moving elements from a Symfony form collection",
+                "homepage": "https://symfony-collection.fuz.org/",
                 "id": 31131520,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-05T19:02:46Z",
+                "open_issues": 54,
                 "owner": "ninsuo",
                 "repo": "symfony-collection",
-                "stars": 438
+                "stars": 438,
+                "topics": [
+                  "collection",
+                  "form-theme",
+                  "jquery-plugin",
+                  "symfony",
+                  "symfony-collection"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -1840,12 +2704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery UI for the Rails asset pipeline",
+                "homepage": null,
                 "id": 3472546,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-30T18:32:29Z",
+                "open_issues": 13,
                 "owner": "jquery-ui-rails",
                 "repo": "jquery-ui-rails",
-                "stars": 1120
+                "stars": 1120,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1856,12 +2725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gem to automate using jQuery with Rails",
+                "homepage": null,
                 "id": 1795951,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-10-21T20:23:08Z",
+                "open_issues": 19,
                 "owner": "rails",
                 "repo": "jquery-rails",
-                "stars": 945
+                "stars": 945,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -1880,12 +2754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+            "homepage": null,
             "id": 21393871,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-19T17:00:42Z",
+            "open_issues": 31,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35022,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1896,12 +2775,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-watch videos about javascript",
+            "homepage": null,
             "id": 21065473,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-01-20T09:29:27Z",
+            "open_issues": 0,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13604
+            "stars": 13604,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "education",
+              "javascript",
+              "videos",
+              "watch"
+            ]
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1912,12 +2803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome online javascript books.",
+            "homepage": null,
             "id": 22453515,
             "language": null,
+            "license": null,
             "last_commit": "2018-10-13T02:32:50Z",
+            "open_issues": 1,
             "owner": "heatroom",
             "repo": "awesome-javascript-books",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
         },
@@ -1933,12 +2829,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500861
+                "stars": 500891,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1949,12 +2856,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+                "homepage": null,
                 "id": 14408715,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-23T20:19:22Z",
+                "open_issues": 22,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11441
+                "stars": 11441,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "curated-lists",
+                  "lists",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1965,12 +2883,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome curated lists of many topics.",
+                "homepage": null,
                 "id": 21388604,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-07-31T23:19:05Z",
+                "open_issues": 25,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3203
+                "stars": 3203,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1981,12 +2907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome curated lists! Inspired by inspiration.",
+                "homepage": null,
                 "id": 21636365,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-13T08:33:34Z",
+                "open_issues": 3,
                 "owner": "erichs",
                 "repo": "awesome-awesome",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             },
@@ -1997,12 +2928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome lists of awesome frameworks, libraries and software",
+                "homepage": "http://bradoyler.github.io/awesome-all/",
                 "id": 21757420,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-10-16T11:44:37Z",
+                "open_issues": 1,
                 "owner": "bradoyler",
                 "repo": "awesome-all",
-                "stars": 237
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -2020,12 +2956,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个关于jQuery插件，资源和其他一些bling bling的玩意儿的策划案",
+                "homepage": null,
                 "id": 50724286,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-06-09T03:20:14Z",
+                "open_issues": 0,
                 "owner": "Iamlars",
                 "repo": "awesome-jquery",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
             }
@@ -2036,15 +2977,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:56:58.789Z",
+    "last_updated": "2026-08-29T04:34:29.997Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
+      "homepage": null,
       "id": 25960710,
       "language": null,
+      "license": null,
       "last_commit": "2026-01-01T15:37:15Z",
+      "open_issues": 0,
       "owner": "petk",
       "repo": "awesome-jquery",
-      "stars": 981
+      "stars": 981,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "javascript",
+        "jquery"
+      ]
     },
     "original_repository_sha": "13ae14d4f9d34de761c3198e2ed6ed03af97c4f0",
     "enhanced_repository": "enhansome/enhansome-jquery",
