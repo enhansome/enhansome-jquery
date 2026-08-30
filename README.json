@@ -42,7 +42,7 @@
                 "open_issues": 9,
                 "owner": "jquery-boilerplate",
                 "repo": "jquery-patterns",
-                "stars": 1569,
+                "stars": 1568,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -105,7 +105,7 @@
                 "open_issues": 72,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28950,
+                "stars": 28951,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -137,7 +137,7 @@
             "open_issues": 129,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35400,
+            "stars": 35401,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -167,11 +167,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-13T07:05:44Z",
-            "open_issues": 22,
+            "last_commit": "2026-08-30T18:08:34Z",
+            "open_issues": 23,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972,
+            "stars": 8973,
             "topics": [
               "2d",
               "angular",
@@ -234,7 +234,7 @@
             "open_issues": 78,
             "owner": "blivesta",
             "repo": "animsition",
-            "stars": 3781,
+            "stars": 3780,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -542,7 +542,7 @@
                 "open_issues": 37,
                 "owner": "selectize",
                 "repo": "selectize.js",
-                "stars": 13023,
+                "stars": 13022,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -632,7 +632,7 @@
                 "open_issues": 314,
                 "owner": "davidstutz",
                 "repo": "bootstrap-multiselect",
-                "stars": 3675,
+                "stars": 3676,
                 "topics": [
                   "bootstrap-multiselect",
                   "jquery-plugin",
@@ -653,8 +653,8 @@
                 "id": 6418800,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T06:02:29Z",
-                "open_issues": 143,
+                "last_commit": "2026-08-30T12:22:38Z",
+                "open_issues": 130,
                 "owner": "miromannino",
                 "repo": "Justified-Gallery",
                 "stars": 1747,
@@ -782,10 +782,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-27T21:17:31Z",
-                "open_issues": 585,
+                "open_issues": 586,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67672,
+                "stars": 67678,
                 "topics": [
                   "canvas",
                   "chart",
@@ -834,7 +834,7 @@
                 "open_issues": 1194,
                 "owner": "OwlCarousel2",
                 "repo": "OwlCarousel2",
-                "stars": 7897,
+                "stars": 7896,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1646,7 +1646,7 @@
                 "open_issues": 20,
                 "owner": "stephanwagner",
                 "repo": "jBox",
-                "stars": 1395,
+                "stars": 1394,
                 "topics": [
                   "alert",
                   "confirm",
@@ -1763,7 +1763,7 @@
                 "open_issues": 76,
                 "owner": "metafizzy",
                 "repo": "isotope",
-                "stars": 11102,
+                "stars": 11101,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2763,7 +2763,7 @@
             "open_issues": 32,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35024,
+            "stars": 35023,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2784,7 +2784,7 @@
             "open_issues": 0,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13604,
+            "stars": 13603,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2838,7 +2838,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 501117,
+                "stars": 501403,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2862,10 +2862,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-03-23T20:19:22Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11443,
+                "stars": 11444,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2892,7 +2892,7 @@
                 "open_issues": 26,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3203,
+                "stars": 3204,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:41:23.844Z",
+    "last_updated": "2026-08-30T19:46:55.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
@@ -2989,7 +2989,7 @@
       "open_issues": 0,
       "owner": "petk",
       "repo": "awesome-jquery",
-      "stars": 981,
+      "stars": 980,
       "topics": [
         "awesome",
         "awesome-list",
