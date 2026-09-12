@@ -102,7 +102,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-06T23:35:53Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "tastejs",
                 "repo": "todomvc",
                 "stars": 28956,
@@ -137,7 +137,7 @@
             "open_issues": 129,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35389,
+            "stars": 35388,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -167,8 +167,8 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T18:40:33Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-12T18:53:19Z",
+            "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
             "stars": 8979,
@@ -302,7 +302,7 @@
             "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3462,
+            "stars": 3461,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -513,10 +513,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T02:50:13Z",
-                "open_issues": 134,
+                "open_issues": 135,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25902,
+                "stars": 25901,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -599,7 +599,7 @@
                 "open_issues": 35,
                 "owner": "jquery-form",
                 "repo": "form",
-                "stars": 5146,
+                "stars": 5145,
                 "topics": [
                   "ajax",
                   "ajax-form",
@@ -782,10 +782,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T02:44:42Z",
-                "open_issues": 582,
+                "open_issues": 584,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67690,
+                "stars": 67694,
                 "topics": [
                   "canvas",
                   "chart",
@@ -2763,7 +2763,7 @@
             "open_issues": 23,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35016,
+            "stars": 35018,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2838,7 +2838,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 505114,
+                "stars": 505406,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 27,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11473,
+                "stars": 11476,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:36:06.995Z",
+    "last_updated": "2026-09-12T19:15:22.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
