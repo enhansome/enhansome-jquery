@@ -105,7 +105,7 @@
                 "open_issues": 73,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28955,
+                "stars": 28956,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -137,7 +137,7 @@
             "open_issues": 129,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35389,
+            "stars": 35391,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -167,7 +167,7 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T16:57:36Z",
+            "last_commit": "2026-09-14T17:38:30Z",
             "open_issues": 19,
             "owner": "tsparticles",
             "repo": "tsparticles",
@@ -415,7 +415,7 @@
                 "open_issues": 426,
                 "owner": "froala",
                 "repo": "wysiwyg-editor",
-                "stars": 5400,
+                "stars": 5399,
                 "topics": [
                   "froala",
                   "javascript",
@@ -512,11 +512,11 @@
                 "id": 3620194,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T02:50:13Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-14T17:42:21Z",
+                "open_issues": 137,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25901,
+                "stars": 25902,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -599,7 +599,7 @@
                 "open_issues": 35,
                 "owner": "jquery-form",
                 "repo": "form",
-                "stars": 5145,
+                "stars": 5144,
                 "topics": [
                   "ajax",
                   "ajax-form",
@@ -632,7 +632,7 @@
                 "open_issues": 314,
                 "owner": "davidstutz",
                 "repo": "bootstrap-multiselect",
-                "stars": 3678,
+                "stars": 3677,
                 "topics": [
                   "bootstrap-multiselect",
                   "jquery-plugin",
@@ -781,7 +781,7 @@
                 "id": 8843683,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T13:25:51Z",
+                "last_commit": "2026-09-14T14:56:56Z",
                 "open_issues": 579,
                 "owner": "chartjs",
                 "repo": "Chart.js",
@@ -809,11 +809,11 @@
                 "id": 18049133,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T13:35:11Z",
-                "open_issues": 1294,
+                "last_commit": "2026-09-14T12:47:41Z",
+                "open_issues": 1270,
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28545,
+                "stars": 28546,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -928,7 +928,7 @@
                 "open_issues": 216,
                 "owner": "jquery-backstretch",
                 "repo": "jquery-backstretch",
-                "stars": 3879,
+                "stars": 3878,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -970,7 +970,7 @@
                 "open_issues": 24,
                 "owner": "robicch",
                 "repo": "jQueryGantt",
-                "stars": 2249,
+                "stars": 2248,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1478,7 +1478,7 @@
                 "open_issues": 678,
                 "owner": "dimsemenov",
                 "repo": "Magnific-Popup",
-                "stars": 11311,
+                "stars": 11310,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1499,7 +1499,7 @@
                 "open_issues": 54,
                 "owner": "HubSpot",
                 "repo": "vex",
-                "stars": 6872,
+                "stars": 6871,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1820,7 +1820,7 @@
                 "open_issues": 228,
                 "owner": "fooplugins",
                 "repo": "FooTable",
-                "stars": 2106,
+                "stars": 2105,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2336,7 +2336,7 @@
                 "open_issues": 11,
                 "owner": "jquery-boilerplate",
                 "repo": "jquery-boilerplate",
-                "stars": 2488,
+                "stars": 2487,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2357,7 +2357,7 @@
                 "open_issues": 39,
                 "owner": "simsalabim",
                 "repo": "sisyphus",
-                "stars": 1972,
+                "stars": 1971,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2510,7 +2510,7 @@
             "open_issues": 159,
             "owner": "bevacqua",
             "repo": "dragula",
-            "stars": 22130,
+            "stars": 22129,
             "topics": [
               "component",
               "drag-and-drop",
@@ -2763,7 +2763,7 @@
             "open_issues": 23,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35020,
+            "stars": 35021,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2784,7 +2784,7 @@
             "open_issues": 0,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13614,
+            "stars": 13616,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2838,7 +2838,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 505705,
+                "stars": 506029,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 27,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11476,
+                "stars": 11480,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2892,7 +2892,7 @@
                 "open_issues": 26,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3207,
+                "stars": 3208,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2916,7 +2916,7 @@
                 "open_issues": 3,
                 "owner": "erichs",
                 "repo": "awesome-awesome",
-                "stars": 294,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2937,7 +2937,7 @@
                 "open_issues": 1,
                 "owner": "bradoyler",
                 "repo": "awesome-all",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:22:44.959Z",
+    "last_updated": "2026-09-14T20:54:32.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
@@ -2989,7 +2989,7 @@
       "open_issues": 0,
       "owner": "petk",
       "repo": "awesome-jquery",
-      "stars": 978,
+      "stars": 977,
       "topics": [
         "awesome",
         "awesome-list",
