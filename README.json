@@ -105,7 +105,7 @@
                 "open_issues": 73,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28957,
+                "stars": 28959,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -137,7 +137,7 @@
             "open_issues": 129,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35389,
+            "stars": 35388,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -167,11 +167,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:26:37Z",
+            "last_commit": "2026-09-16T23:38:58Z",
             "open_issues": 19,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8982,
+            "stars": 8984,
             "topics": [
               "2d",
               "angular",
@@ -412,10 +412,10 @@
                 "language": "CSS",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-19T10:29:53Z",
-                "open_issues": 427,
+                "open_issues": 428,
                 "owner": "froala",
                 "repo": "wysiwyg-editor",
-                "stars": 5400,
+                "stars": 5399,
                 "topics": [
                   "froala",
                   "javascript",
@@ -599,7 +599,7 @@
                 "open_issues": 35,
                 "owner": "jquery-form",
                 "repo": "form",
-                "stars": 5144,
+                "stars": 5145,
                 "topics": [
                   "ajax",
                   "ajax-form",
@@ -782,10 +782,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-14T14:56:56Z",
-                "open_issues": 579,
+                "open_issues": 580,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67695,
+                "stars": 67698,
                 "topics": [
                   "canvas",
                   "chart",
@@ -834,7 +834,7 @@
                 "open_issues": 1193,
                 "owner": "OwlCarousel2",
                 "repo": "OwlCarousel2",
-                "stars": 7895,
+                "stars": 7894,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1449,7 +1449,7 @@
                 "open_issues": 200,
                 "owner": "t4t5",
                 "repo": "sweetalert",
-                "stars": 22255,
+                "stars": 22254,
                 "topics": [
                   "alert",
                   "dialog",
@@ -1478,7 +1478,7 @@
                 "open_issues": 678,
                 "owner": "dimsemenov",
                 "repo": "Magnific-Popup",
-                "stars": 11311,
+                "stars": 11310,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1541,7 +1541,7 @@
                 "open_issues": 109,
                 "owner": "jschr",
                 "repo": "bootstrap-modal",
-                "stars": 4959,
+                "stars": 4958,
                 "topics": [
                   "bootstrap",
                   "bootstrap-modal",
@@ -1646,7 +1646,7 @@
                 "open_issues": 20,
                 "owner": "stephanwagner",
                 "repo": "jBox",
-                "stars": 1394,
+                "stars": 1393,
                 "topics": [
                   "alert",
                   "confirm",
@@ -1763,7 +1763,7 @@
                 "open_issues": 76,
                 "owner": "metafizzy",
                 "repo": "isotope",
-                "stars": 11097,
+                "stars": 11096,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2136,7 +2136,7 @@
                 "language": "JavaScript",
                 "license": "GPL-2.0",
                 "last_commit": "2026-07-23T06:51:38Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "wikimedia",
                 "repo": "jquery.i18n",
                 "stars": 737,
@@ -2213,7 +2213,7 @@
                 "open_issues": 41,
                 "owner": "jquery-validation",
                 "repo": "jquery-validation",
-                "stars": 10318,
+                "stars": 10317,
                 "topics": [
                   "inline-validation",
                   "javascript",
@@ -2378,7 +2378,7 @@
                 "open_issues": 75,
                 "owner": "autoNumeric",
                 "repo": "autoNumeric",
-                "stars": 1803,
+                "stars": 1802,
                 "topics": [
                   "autonumeric",
                   "input-validation",
@@ -2763,7 +2763,7 @@
             "open_issues": 23,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35030,
+            "stars": 35029,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2838,7 +2838,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 506711,
+                "stars": 507115,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 27,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11486,
+                "stars": 11487,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:02:26.351Z",
+    "last_updated": "2026-09-17T20:14:06.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
