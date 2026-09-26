@@ -167,11 +167,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T12:37:49Z",
+            "last_commit": "2026-09-25T22:06:56Z",
             "open_issues": 19,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8985,
+            "stars": 8984,
             "topics": [
               "2d",
               "angular",
@@ -495,7 +495,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30703,
+                "stars": 30704,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -542,7 +542,7 @@
                 "open_issues": 37,
                 "owner": "selectize",
                 "repo": "selectize.js",
-                "stars": 13020,
+                "stars": 13021,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -1286,7 +1286,7 @@
                 "open_issues": 107,
                 "owner": "swisnl",
                 "repo": "jQuery-contextMenu",
-                "stars": 2245,
+                "stars": 2244,
                 "topics": [
                   "contextmenu",
                   "hacktoberfest",
@@ -2375,7 +2375,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-13T07:45:43Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "autoNumeric",
                 "repo": "autoNumeric",
                 "stars": 1803,
@@ -2510,7 +2510,7 @@
             "open_issues": 159,
             "owner": "bevacqua",
             "repo": "dragula",
-            "stars": 22127,
+            "stars": 22128,
             "topics": [
               "component",
               "drag-and-drop",
@@ -2838,7 +2838,7 @@
                 "open_issues": 107,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 510399,
+                "stars": 510913,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 30,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11506,
+                "stars": 11509,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2892,7 +2892,7 @@
                 "open_issues": 28,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3212,
+                "stars": 3214,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:24:29.609Z",
+    "last_updated": "2026-09-26T19:45:45.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
