@@ -415,7 +415,7 @@
                 "open_issues": 431,
                 "owner": "froala",
                 "repo": "wysiwyg-editor",
-                "stars": 5398,
+                "stars": 5397,
                 "topics": [
                   "froala",
                   "javascript",
@@ -781,8 +781,8 @@
                 "id": 8843683,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:43:54Z",
-                "open_issues": 594,
+                "last_commit": "2026-10-03T07:08:12Z",
+                "open_issues": 592,
                 "owner": "chartjs",
                 "repo": "Chart.js",
                 "stars": 67730,
@@ -1520,7 +1520,7 @@
                 "open_issues": 51,
                 "owner": "lokesh",
                 "repo": "lightbox2",
-                "stars": 6373,
+                "stars": 6372,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2763,7 +2763,7 @@
             "open_issues": 26,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35032,
+            "stars": 35034,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2784,7 +2784,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13621,
+            "stars": 13622,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2835,10 +2835,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-02T02:10:47Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513797,
+                "stars": 514082,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11520,
+                "stars": 11521,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:44.744Z",
+    "last_updated": "2026-10-03T19:47:53.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
