@@ -105,7 +105,7 @@
                 "open_issues": 73,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28955,
+                "stars": 28957,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -137,7 +137,7 @@
             "open_issues": 129,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35383,
+            "stars": 35382,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -412,7 +412,7 @@
                 "language": "CSS",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T08:41:25Z",
-                "open_issues": 431,
+                "open_issues": 432,
                 "owner": "froala",
                 "repo": "wysiwyg-editor",
                 "stars": 5396,
@@ -495,7 +495,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30698,
+                "stars": 30697,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -513,10 +513,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T18:12:56Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25907,
+                "stars": 25905,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -632,7 +632,7 @@
                 "open_issues": 314,
                 "owner": "davidstutz",
                 "repo": "bootstrap-multiselect",
-                "stars": 3674,
+                "stars": 3673,
                 "topics": [
                   "bootstrap-multiselect",
                   "jquery-plugin",
@@ -782,7 +782,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-04T13:05:36Z",
-                "open_issues": 595,
+                "open_issues": 596,
                 "owner": "chartjs",
                 "repo": "Chart.js",
                 "stars": 67733,
@@ -813,7 +813,7 @@
                 "open_issues": 1264,
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28528,
+                "stars": 28527,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1478,7 +1478,7 @@
                 "open_issues": 679,
                 "owner": "dimsemenov",
                 "repo": "Magnific-Popup",
-                "stars": 11304,
+                "stars": 11303,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2078,7 +2078,7 @@
                 "open_issues": 45,
                 "owner": "rmm5t",
                 "repo": "jquery-timeago",
-                "stars": 3793,
+                "stars": 3792,
                 "topics": [
                   "javascript",
                   "jquery",
@@ -2213,7 +2213,7 @@
                 "open_issues": 42,
                 "owner": "jquery-validation",
                 "repo": "jquery-validation",
-                "stars": 10317,
+                "stars": 10316,
                 "topics": [
                   "inline-validation",
                   "javascript",
@@ -2239,7 +2239,7 @@
                 "open_issues": 32,
                 "owner": "posabsolute",
                 "repo": "jQuery-Validation-Engine",
-                "stars": 2535,
+                "stars": 2534,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2510,7 +2510,7 @@
             "open_issues": 159,
             "owner": "bevacqua",
             "repo": "dragula",
-            "stars": 22136,
+            "stars": 22135,
             "topics": [
               "component",
               "drag-and-drop",
@@ -2784,7 +2784,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13623,
+            "stars": 13622,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2838,7 +2838,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 515599,
+                "stars": 516063,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 33,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11529,
+                "stars": 11533,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2892,7 +2892,7 @@
                 "open_issues": 29,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3221,
+                "stars": 3223,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:35:31.418Z",
+    "last_updated": "2026-10-07T21:56:41.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
