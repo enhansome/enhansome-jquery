@@ -137,7 +137,7 @@
             "open_issues": 135,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35371,
+            "stars": 35370,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -167,11 +167,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T20:04:44Z",
+            "last_commit": "2026-10-27T16:52:34Z",
             "open_issues": 23,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 9022,
+            "stars": 9043,
             "topics": [
               "2d",
               "angular",
@@ -281,7 +281,7 @@
             "open_issues": 47,
             "owner": "pixelcog",
             "repo": "parallax.js",
-            "stars": 3524,
+            "stars": 3523,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -323,7 +323,7 @@
             "open_issues": 136,
             "owner": "lukehaas",
             "repo": "Scrollify",
-            "stars": 1805,
+            "stars": 1804,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -495,7 +495,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30690,
+                "stars": 30688,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -512,11 +512,11 @@
                 "id": 3620194,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T17:49:02Z",
+                "last_commit": "2026-10-27T18:34:40Z",
                 "open_issues": 141,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25913,
+                "stars": 25911,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -542,7 +542,7 @@
                 "open_issues": 37,
                 "owner": "selectize",
                 "repo": "selectize.js",
-                "stars": 13014,
+                "stars": 13012,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -657,7 +657,7 @@
                 "open_issues": 135,
                 "owner": "miromannino",
                 "repo": "Justified-Gallery",
-                "stars": 1745,
+                "stars": 1746,
                 "topics": [
                   "bricklayer",
                   "css-animations",
@@ -782,10 +782,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-23T11:47:55Z",
-                "open_issues": 630,
+                "open_issues": 631,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67761,
+                "stars": 67763,
                 "topics": [
                   "canvas",
                   "chart",
@@ -813,7 +813,7 @@
                 "open_issues": 1266,
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28526,
+                "stars": 28525,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -834,7 +834,7 @@
                 "open_issues": 1192,
                 "owner": "OwlCarousel2",
                 "repo": "OwlCarousel2",
-                "stars": 7882,
+                "stars": 7881,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -855,7 +855,7 @@
                 "open_issues": 0,
                 "owner": "fengyuanchen",
                 "repo": "cropper",
-                "stars": 7671,
+                "stars": 7672,
                 "topics": [
                   "cropper",
                   "image-cropper",
@@ -1234,7 +1234,7 @@
                 "open_issues": 67,
                 "owner": "kamens",
                 "repo": "jQuery-menu-aim",
-                "stars": 7623,
+                "stars": 7624,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1449,7 +1449,7 @@
                 "open_issues": 200,
                 "owner": "t4t5",
                 "repo": "sweetalert",
-                "stars": 22247,
+                "stars": 22244,
                 "topics": [
                   "alert",
                   "dialog",
@@ -1595,7 +1595,7 @@
                 "open_issues": 88,
                 "owner": "marcelodolza",
                 "repo": "iziModal",
-                "stars": 2145,
+                "stars": 2144,
                 "topics": [
                   "dialog",
                   "javascript",
@@ -1763,7 +1763,7 @@
                 "open_issues": 76,
                 "owner": "metafizzy",
                 "repo": "isotope",
-                "stars": 11089,
+                "stars": 11088,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1841,7 +1841,7 @@
                 "open_issues": 376,
                 "owner": "tabalinas",
                 "repo": "jsgrid",
-                "stars": 1517,
+                "stars": 1516,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2213,7 +2213,7 @@
                 "open_issues": 41,
                 "owner": "jquery-validation",
                 "repo": "jquery-validation",
-                "stars": 10314,
+                "stars": 10313,
                 "topics": [
                   "inline-validation",
                   "javascript",
@@ -2763,7 +2763,7 @@
             "open_issues": 33,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35035,
+            "stars": 35036,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2838,7 +2838,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 525134,
+                "stars": 525679,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11598,
+                "stars": 11602,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2892,7 +2892,7 @@
                 "open_issues": 26,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3238,
+                "stars": 3239,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2916,7 +2916,7 @@
                 "open_issues": 3,
                 "owner": "erichs",
                 "repo": "awesome-awesome",
-                "stars": 298,
+                "stars": 299,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2937,7 +2937,7 @@
                 "open_issues": 1,
                 "owner": "bradoyler",
                 "repo": "awesome-all",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:35:51.256Z",
+    "last_updated": "2026-10-27T21:14:33.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
