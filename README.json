@@ -105,7 +105,7 @@
                 "open_issues": 74,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28963,
+                "stars": 28962,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -137,7 +137,7 @@
             "open_issues": 137,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35368,
+            "stars": 35365,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -171,7 +171,7 @@
             "open_issues": 23,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 9061,
+            "stars": 9065,
             "topics": [
               "2d",
               "angular",
@@ -255,7 +255,7 @@
             "open_issues": 26,
             "owner": "Aerolab",
             "repo": "midnight.js",
-            "stars": 3650,
+            "stars": 3649,
             "topics": [
               "css",
               "javascript",
@@ -542,7 +542,7 @@
                 "open_issues": 37,
                 "owner": "selectize",
                 "repo": "selectize.js",
-                "stars": 13011,
+                "stars": 13010,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -595,8 +595,8 @@
                 "id": 114732,
                 "language": "JavaScript",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-30T03:54:51Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-31T18:00:45Z",
+                "open_issues": 14,
                 "owner": "jquery-form",
                 "repo": "form",
                 "stars": 5145,
@@ -632,7 +632,7 @@
                 "open_issues": 314,
                 "owner": "davidstutz",
                 "repo": "bootstrap-multiselect",
-                "stars": 3670,
+                "stars": 3669,
                 "topics": [
                   "bootstrap-multiselect",
                   "jquery-plugin",
@@ -785,7 +785,7 @@
                 "open_issues": 631,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67769,
+                "stars": 67772,
                 "topics": [
                   "canvas",
                   "chart",
@@ -813,7 +813,7 @@
                 "open_issues": 1266,
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28524,
+                "stars": 28523,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 71,
                 "owner": "neveldo",
                 "repo": "jQuery-Mapael",
-                "stars": 1003,
+                "stars": 1004,
                 "topics": [
                   "dataviz",
                   "javascript",
@@ -1625,7 +1625,7 @@
                 "open_issues": 18,
                 "owner": "voronianski",
                 "repo": "jquery.avgrund.js",
-                "stars": 1738,
+                "stars": 1737,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1763,7 +1763,7 @@
                 "open_issues": 76,
                 "owner": "metafizzy",
                 "repo": "isotope",
-                "stars": 11086,
+                "stars": 11084,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2763,7 +2763,7 @@
             "open_issues": 35,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35041,
+            "stars": 35042,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2784,7 +2784,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13645,
+            "stars": 13646,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2838,7 +2838,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 527437,
+                "stars": 527969,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2857,15 +2857,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
-                "homepage": null,
+                "homepage": "http://jnv.github.io/lists/",
                 "id": 14408715,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-29T19:14:47Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-31T16:22:36Z",
+                "open_issues": 0,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11615,
+                "stars": 11618,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2892,7 +2892,7 @@
                 "open_issues": 26,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3238,
+                "stars": 3240,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:26:11.401Z",
+    "last_updated": "2026-10-31T20:25:59.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
