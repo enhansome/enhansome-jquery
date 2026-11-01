@@ -105,7 +105,7 @@
                 "open_issues": 74,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28962,
+                "stars": 28963,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -137,7 +137,7 @@
             "open_issues": 137,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35365,
+            "stars": 35364,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -167,11 +167,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T16:52:34Z",
+            "last_commit": "2026-11-01T13:20:12Z",
             "open_issues": 23,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 9065,
+            "stars": 9066,
             "topics": [
               "2d",
               "angular",
@@ -213,7 +213,7 @@
             "open_issues": 135,
             "owner": "rstacruz",
             "repo": "jquery.transit",
-            "stars": 7225,
+            "stars": 7224,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -255,7 +255,7 @@
             "open_issues": 26,
             "owner": "Aerolab",
             "repo": "midnight.js",
-            "stars": 3649,
+            "stars": 3648,
             "topics": [
               "css",
               "javascript",
@@ -443,7 +443,7 @@
                 "open_issues": 97,
                 "owner": "bergie",
                 "repo": "hallo",
-                "stars": 2438,
+                "stars": 2437,
                 "topics": [
                   "jquery-ui",
                   "rich-text-editor"
@@ -516,7 +516,7 @@
                 "open_issues": 140,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25910,
+                "stars": 25908,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -542,7 +542,7 @@
                 "open_issues": 37,
                 "owner": "selectize",
                 "repo": "selectize.js",
-                "stars": 13010,
+                "stars": 13008,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -595,7 +595,7 @@
                 "id": 114732,
                 "language": "JavaScript",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-31T18:00:45Z",
+                "last_commit": "2026-11-01T03:34:03Z",
                 "open_issues": 14,
                 "owner": "jquery-form",
                 "repo": "form",
@@ -813,7 +813,7 @@
                 "open_issues": 1266,
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28523,
+                "stars": 28522,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -882,7 +882,7 @@
                 "open_issues": 630,
                 "owner": "flot",
                 "repo": "flot",
-                "stars": 5903,
+                "stars": 5904,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1234,7 +1234,7 @@
                 "open_issues": 67,
                 "owner": "kamens",
                 "repo": "jQuery-menu-aim",
-                "stars": 7623,
+                "stars": 7622,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1449,7 +1449,7 @@
                 "open_issues": 200,
                 "owner": "t4t5",
                 "repo": "sweetalert",
-                "stars": 22242,
+                "stars": 22243,
                 "topics": [
                   "alert",
                   "dialog",
@@ -1478,7 +1478,7 @@
                 "open_issues": 679,
                 "owner": "dimsemenov",
                 "repo": "Magnific-Popup",
-                "stars": 11299,
+                "stars": 11298,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 614,
             "owner": "vitalets",
             "repo": "x-editable",
-            "stars": 6493,
+            "stars": 6492,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2760,10 +2760,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-25T17:49:17Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35042,
+            "stars": 35041,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2838,7 +2838,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 527969,
+                "stars": 528607,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 0,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11618,
+                "stars": 11621,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2892,7 +2892,7 @@
                 "open_issues": 26,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3240,
+                "stars": 3241,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:25:59.334Z",
+    "last_updated": "2026-11-01T21:07:15.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
