@@ -1,6 +1,6 @@
 # Awesome jQuery with stars
 
-[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18">](https://github.com/sindresorhus/awesome) ⭐ 531,719 | 🐛 103 | 📅 2026-09-02
+[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18">](https://github.com/sindresorhus/awesome) ⭐ 532,415 | 🐛 103 | 📅 2026-09-02
 [![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-jquery/commits/master)
@@ -100,7 +100,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Various types of resources.*
 
-* [TodoMVC](https://github.com/tastejs/todomvc) ⭐ 28,967 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-06 - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV\* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
+* [TodoMVC](https://github.com/tastejs/todomvc) ⭐ 28,968 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-06 - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV\* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
 * [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
 * [jQuery Source Viewer](https://j11y.io/jquery/) - Browser of jQuery method implementations.
 * [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
@@ -125,8 +125,8 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Animations, transitions.*
 
 * [Fullpage.js](https://github.com/alvarotrigo/fullPage.js) ⭐ 35,360 | 🐛 137 | 🌐 JavaScript | 📅 2026-09-20 - Create full screen pages fast and simple.
-* [jQuery Particles](https://github.com/matteobruni/tsparticles/tree/master/components/jquery) ⭐ 9,076 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-05 - A plugin to easily add Particles animations to your web application
-* [jQuery Transit](https://github.com/rstacruz/jquery.transit) ⭐ 7,223 | 🐛 135 | 🌐 JavaScript | 📅 2022-01-18 - Super-smooth CSS3 transformations and transitions for jQuery.
+* [jQuery Particles](https://github.com/matteobruni/tsparticles/tree/master/components/jquery) ⭐ 9,076 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-06 - A plugin to easily add Particles animations to your web application
+* [jQuery Transit](https://github.com/rstacruz/jquery.transit) ⭐ 7,224 | 🐛 135 | 🌐 JavaScript | 📅 2022-01-18 - Super-smooth CSS3 transformations and transitions for jQuery.
 * [Animsition](https://github.com/blivesta/animsition/) ⭐ 3,776 | 🐛 78 | 🌐 CSS | 📅 2019-11-19 - A simple and easy jQuery plugin for CSS animated page transitions.
 * [Midnight](https://github.com/Aerolab/midnight.js) ⭐ 3,648 | 🐛 26 | 🌐 JavaScript | 📅 2022-04-04 - Switches fixed headers on the fly.
 * [Parallax.js](https://github.com/pixelcog/parallax.js/) ⭐ 3,523 | 🐛 47 | 🌐 JavaScript | 📅 2022-05-11 - Scrolling effect.
@@ -142,7 +142,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *WYSIWYG editors.*
 
-* [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) ⭐ 5,393 | 🐛 436 | 🌐 CSS | 📅 2026-09-30 - jQuery WYSIWYG Rich Text Editor based on HTML5.
+* [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) ⭐ 5,392 | 🐛 436 | 🌐 CSS | 📅 2026-09-30 - jQuery WYSIWYG Rich Text Editor based on HTML5.
 * [Hallo](https://github.com/bergie/hallo) ⚠️ Archived - Simple rich text editor (contentEditable) for jQuery UI.
 * [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ⭐ 1,676 | 🐛 56 | 🌐 JavaScript | 📅 2020-04-13 - A modern, simple and elegant WYSIWYG rich text editor.
 * [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
@@ -155,7 +155,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Plugins for Forms, AJAX, validation.*
 
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) ⚠️ Archived - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video.
-* [Select2](https://github.com/select2/select2) ⭐ 25,906 | 🐛 148 | 🌐 JavaScript | 📅 2026-11-03 - Select box with support for searching, tagging, remote data sets, infinite scrolling.
+* [Select2](https://github.com/select2/select2) ⭐ 25,904 | 🐛 148 | 🌐 JavaScript | 📅 2026-11-03 - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 * [selectize.js](https://github.com/selectize/selectize.js/) ⚠️ Archived - jQuery based hybrid of a textbox and \<select> box.
 * [Pickadate](https://github.com/amsul/pickadate.js) ⭐ 7,640 | 🐛 315 | 🌐 JavaScript | 📅 2023-07-14 - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [jQuery Form Plugin](https://github.com/jquery-form/form) ⭐ 5,143 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-01 - Easy and unobtrusive HTML forms upgrade to use AJAX.
@@ -172,8 +172,8 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Plugins related to images, image manipulation, galleries, maps and charts.*
 
-* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,778 | 🐛 633 | 🌐 JavaScript | 📅 2026-10-23 - Simple HTML5 Charts using the \<canvas> tag.
-* [Slick](https://github.com/kenwheeler/slick) ⭐ 28,522 | 🐛 1,266 | 🌐 JavaScript | 📅 2026-09-14 - The last carousel you'll ever need.
+* [Chart.js](https://github.com/chartjs/Chart.js) ⭐ 67,776 | 🐛 634 | 🌐 JavaScript | 📅 2026-10-23 - Simple HTML5 Charts using the \<canvas> tag.
+* [Slick](https://github.com/kenwheeler/slick) ⭐ 28,521 | 🐛 1,266 | 🌐 JavaScript | 📅 2026-09-14 - The last carousel you'll ever need.
 * [Owl Carousel 2](https://github.com/OwlCarousel2/OwlCarousel2) ⭐ 7,880 | 🐛 1,192 | 🌐 JavaScript | 📅 2024-08-03 - Responsive carousel slider.
 * [Cropper](https://github.com/fengyuanchen/cropper) ⚠️ Archived - A simple image cropping plugin.
 * [Flot](https://github.com/flot/flot) ⭐ 5,903 | 🐛 630 | 🌐 JavaScript | 📅 2023-11-08 - Attractive charts.
@@ -199,11 +199,11 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Menus animation, usability enhancements and beautification.*
 
-* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) ⭐ 7,621 | 🐛 67 | 🌐 JavaScript | 📅 2018-11-01 - Fires events when user's cursor aims at particular dropdown menu items.
+* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) ⭐ 7,622 | 🐛 67 | 🌐 JavaScript | 📅 2018-11-01 - Fires events when user's cursor aims at particular dropdown menu items.
 * [mmenu](https://github.com/FrDH/mmenu-js) ⭐ 2,561 | 🐛 30 | 🌐 TypeScript | 📅 2023-03-15 - App look-alike on- and off-canvas menus with sliding submenus.
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) ⭐ 2,244 | 🐛 107 | 🌐 JavaScript | 📅 2026-07-30 - Management facility for context menus.
 * [stickUp](https://github.com/LiranCohen/stickUp) ⚠️ Archived - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
-* [Slidebars](https://github.com/adchsm/Slidebars) ⭐ 1,478 | 🐛 85 | 🌐 JavaScript | 📅 2023-07-08 - jQuery framework for off-canvas menus and sidebars.
+* [Slidebars](https://github.com/adchsm/Slidebars) ⭐ 1,477 | 🐛 85 | 🌐 JavaScript | 📅 2023-07-08 - jQuery framework for off-canvas menus and sidebars.
 * [Yamm](https://github.com/geedmo/yamm3) ⭐ 1,189 | 🐛 0 | 🌐 HTML | 📅 2021-04-01 - Yet another megamenu for Bootstrap 3.
 * [jPanelMenu](https://github.com/acolangelo/jPanelMenu) ⚠️ Archived - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
 * [Superfish](https://github.com/joeldbirch/superfish) ⭐ 909 | 🐛 34 | 🌐 JavaScript | 📅 2022-12-06 - Adds usability enhancements to existing multi-level drop-down menus.
@@ -257,7 +257,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Plugins for handling, manipulating or formating time and date.*
 
-* [Timeago](https://github.com/rmm5t/jquery-timeago) ⭐ 3,790 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-02 - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
+* [Timeago](https://github.com/rmm5t/jquery-timeago) ⭐ 3,791 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-02 - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) ⭐ 295 | 🐛 12 | 🌐 JavaScript | 📅 2024-12-15 - Start/Stop/Resume/Remove pretty timer inside any HTML element.
 
 [Back to top](#awesome-jquery)
@@ -266,7 +266,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Internationalization (i18n) and localization (l10n).*
 
-* [jquery.i18n](https://github.com/wikimedia/jquery.i18n) ⭐ 737 | 🐛 68 | 🌐 JavaScript | 📅 2026-07-23 - jQuery based Javascript internationalization library for easy internationalization of web application
+* [jquery.i18n](https://github.com/wikimedia/jquery.i18n) ⭐ 738 | 🐛 70 | 🌐 JavaScript | 📅 2026-11-06 - jQuery based Javascript internationalization library for easy internationalization of web application
 * [jquery.localize.js](https://github.com/coderifous/jquery-localize) ⭐ 459 | 🐛 35 | 🌐 JavaScript | 📅 2017-07-09 - Easy internationalization of your static web site
 * [i18n properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties) ⭐ 427 | 🐛 35 | 🌐 CSS | 📅 2021-04-21 - Lightweight plugin for providing internationalization to JavaScript from [.properties](https://en.wikipedia.org/wiki/.properties) files
 
@@ -276,7 +276,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Validation plugins.*
 
-* [jquery-validation](https://github.com/jquery-validation/jquery-validation) ⭐ 10,312 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-26 - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
+* [jquery-validation](https://github.com/jquery-validation/jquery-validation) ⭐ 10,313 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-26 - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) ⭐ 2,533 | 🐛 32 | 🌐 JavaScript | 📅 2021-09-09 - Validation of form fields in the browser.
 * [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) ⭐ 959 | 🐛 232 | 🌐 JavaScript | 📅 2021-09-09 - Validate user input while keeping your HTML markup clean from JavaScript code.
 * [h5Validate](https://github.com/ericelliott/h5Validate) ⚠️ Archived - An HTML5 form validation plugin for jQuery.
@@ -313,7 +313,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *User Interface section.*
 
-* [Dragula](https://github.com/bevacqua/dragula) ⭐ 22,124 | 🐛 159 | 🌐 JavaScript | 📅 2024-06-07 - Framework agnostic drag and drop library, supports jQuery integration.
+* [Dragula](https://github.com/bevacqua/dragula) ⭐ 22,122 | 🐛 159 | 🌐 JavaScript | 📅 2024-06-07 - Framework agnostic drag and drop library, supports jQuery integration.
 * [X-editable](https://github.com/vitalets/x-editable) ⭐ 6,491 | 🐛 614 | 🌐 JavaScript | 📅 2025-02-11 - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 * [tabulous.js](https://github.com/aarondo/tabulous.js) ⭐ 535 | 🐛 20 | 🌐 CSS | 📅 2015-12-22 - Tabs for todays web
 * [jQuery Enhanced Splitter](https://github.com/hiltonjanfield/jquery.enhsplitter) ⭐ 29 | 🐛 11 | 🌐 HTML | 📅 2015-12-11 - Create draggable content splitters to emulate frames and separate content.
@@ -340,13 +340,13 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
   * [Bower](https://bower.io/) - Useful package manager optimized for the front-end.
   * [cheerio](https://cheerio.js.org/) - jQuery for server-side manipulations. It makes possible to construct jQuery instance from HTML string then query and manipulate it. Does not implement ajax and effects API.
 * PHP:
-  * [symfony-collection](https://github.com/ninsuo/symfony-collection) ⭐ 437 | 🐛 54 | 🌐 JavaScript | 📅 2022-03-05 - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
+  * [symfony-collection](https://github.com/ninsuo/symfony-collection) ⭐ 436 | 🐛 54 | 🌐 JavaScript | 📅 2022-03-05 - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
   * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
 * Python:
   * [django-static-jquery](https://pypi.org/project/django-static-jquery/) - jQuery packaged in an handy Django app to speed up new applications and deployment.
 * Ruby:
   * [jquery-ui-rails](https://github.com/jquery-ui-rails/jquery-ui-rails) ⭐ 1,119 | 🐛 13 | 🌐 Ruby | 📅 2026-09-22 - jQuery UI for the Rails asset pipeline.
-  * [jquery-rails](https://github.com/rails/jquery-rails) ⭐ 944 | 🐛 19 | 🌐 Ruby | 📅 2025-10-21 - A gem to automate using jQuery with Rails.
+  * [jquery-rails](https://github.com/rails/jquery-rails) ⭐ 943 | 🐛 19 | 🌐 Ruby | 📅 2025-10-21 - A gem to automate using jQuery with Rails.
 
 [Back to top](#awesome-jquery)
 
@@ -378,12 +378,12 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 ## Looking for more lists like this?
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,034 | 🐛 35 | 📅 2026-10-25 - Awesome JavaScript list
-* [js-must-watch](https://github.com/bolshchikov/js-must-watch) ⭐ 13,649 | 🐛 1 | 📅 2022-01-20 - List of must-watch videos devoted to JavaScript
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,032 | 🐛 35 | 📅 2026-10-25 - Awesome JavaScript list
+* [js-must-watch](https://github.com/bolshchikov/js-must-watch) ⭐ 13,650 | 🐛 1 | 📅 2022-01-20 - List of must-watch videos devoted to JavaScript
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - Awesome JavaScript books
 * Awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,719 | 🐛 103 | 📅 2026-09-02 - Awesome lists
-  * [lists](https://github.com/jnv/lists) ⭐ 11,631 | 🐛 0 | 📅 2026-11-05 - Awesome lists
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,415 | 🐛 103 | 📅 2026-09-02 - Awesome lists
+  * [lists](https://github.com/jnv/lists) ⭐ 11,637 | 🐛 0 | 📅 2026-11-05 - Awesome lists
   * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,246 | 🐛 26 | 📅 2024-07-31 - Awesome lists
   * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 299 | 🐛 3 | 📅 2023-11-13 - Awesome lists
   * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 240 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 - Awesome lists
@@ -405,4 +405,4 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
