@@ -105,7 +105,7 @@
                 "open_issues": 82,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28974,
+                "stars": 28973,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -137,7 +137,7 @@
             "open_issues": 137,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35356,
+            "stars": 35355,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -167,11 +167,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T22:40:53Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-13T22:29:42Z",
+            "open_issues": 20,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 9085,
+            "stars": 9089,
             "topics": [
               "2d",
               "angular",
@@ -213,7 +213,7 @@
             "open_issues": 135,
             "owner": "rstacruz",
             "repo": "jquery.transit",
-            "stars": 7226,
+            "stars": 7224,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -412,7 +412,7 @@
                 "language": "CSS",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T08:41:25Z",
-                "open_issues": 436,
+                "open_issues": 437,
                 "owner": "froala",
                 "repo": "wysiwyg-editor",
                 "stars": 5393,
@@ -495,7 +495,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30684,
+                "stars": 30683,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -513,10 +513,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-12T01:31:10Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25906,
+                "stars": 25907,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -542,7 +542,7 @@
                 "open_issues": 37,
                 "owner": "selectize",
                 "repo": "selectize.js",
-                "stars": 13008,
+                "stars": 13007,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -573,7 +573,7 @@
                 "open_issues": 317,
                 "owner": "amsul",
                 "repo": "pickadate.js",
-                "stars": 7639,
+                "stars": 7638,
                 "topics": [
                   "calendar",
                   "date",
@@ -599,7 +599,7 @@
                 "open_issues": 4,
                 "owner": "jquery-form",
                 "repo": "form",
-                "stars": 5142,
+                "stars": 5141,
                 "topics": [
                   "ajax",
                   "ajax-form",
@@ -782,10 +782,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-09T02:22:25Z",
-                "open_issues": 651,
+                "open_issues": 652,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67793,
+                "stars": 67795,
                 "topics": [
                   "canvas",
                   "chart",
@@ -813,7 +813,7 @@
                 "open_issues": 1266,
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28520,
+                "stars": 28519,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -834,7 +834,7 @@
                 "open_issues": 1192,
                 "owner": "OwlCarousel2",
                 "repo": "OwlCarousel2",
-                "stars": 7880,
+                "stars": 7879,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -855,7 +855,7 @@
                 "open_issues": 0,
                 "owner": "fengyuanchen",
                 "repo": "cropper",
-                "stars": 7667,
+                "stars": 7666,
                 "topics": [
                   "cropper",
                   "image-cropper",
@@ -882,7 +882,7 @@
                 "open_issues": 630,
                 "owner": "flot",
                 "repo": "flot",
-                "stars": 5901,
+                "stars": 5900,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1133,7 +1133,7 @@
                 "open_issues": 11,
                 "owner": "boblemarin",
                 "repo": "jQuery.eraser",
-                "stars": 332,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1234,7 +1234,7 @@
                 "open_issues": 67,
                 "owner": "kamens",
                 "repo": "jQuery-menu-aim",
-                "stars": 7622,
+                "stars": 7621,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1365,27 +1365,6 @@
             },
             {
               "node_type": "item",
-              "title": "jPanelMenu",
-              "description": "Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A jQuery plugin that creates a paneled-style menu (like the type seen in the mobile versions of Facebook and Google, as well as in many native iPhone applications).",
-                "homepage": "http://jpanelmenu.com",
-                "id": 5850831,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2017-04-17T12:57:49Z",
-                "open_issues": 30,
-                "owner": "acolangelo",
-                "repo": "jPanelMenu",
-                "stars": 909,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:56:58.789Z"
-            },
-            {
-              "node_type": "item",
               "title": "Superfish",
               "description": "Adds usability enhancements to existing multi-level drop-down menus.",
               "children": [],
@@ -1401,6 +1380,27 @@
                 "owner": "joeldbirch",
                 "repo": "superfish",
                 "stars": 909,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:56:58.789Z"
+            },
+            {
+              "node_type": "item",
+              "title": "jPanelMenu",
+              "description": "Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "A jQuery plugin that creates a paneled-style menu (like the type seen in the mobile versions of Facebook and Google, as well as in many native iPhone applications).",
+                "homepage": "http://jpanelmenu.com",
+                "id": 5850831,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2017-04-17T12:57:49Z",
+                "open_issues": 30,
+                "owner": "acolangelo",
+                "repo": "jPanelMenu",
+                "stars": 908,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1449,7 +1449,7 @@
                 "open_issues": 200,
                 "owner": "t4t5",
                 "repo": "sweetalert",
-                "stars": 22238,
+                "stars": 22237,
                 "topics": [
                   "alert",
                   "dialog",
@@ -1541,7 +1541,7 @@
                 "open_issues": 107,
                 "owner": "jschr",
                 "repo": "bootstrap-modal",
-                "stars": 4951,
+                "stars": 4949,
                 "topics": [
                   "bootstrap",
                   "bootstrap-modal",
@@ -1763,7 +1763,7 @@
                 "open_issues": 76,
                 "owner": "metafizzy",
                 "repo": "isotope",
-                "stars": 11081,
+                "stars": 11079,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2213,7 +2213,7 @@
                 "open_issues": 41,
                 "owner": "jquery-validation",
                 "repo": "jquery-validation",
-                "stars": 10313,
+                "stars": 10314,
                 "topics": [
                   "inline-validation",
                   "javascript",
@@ -2405,8 +2405,8 @@
                 "id": 7308204,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T20:50:02Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-12T23:31:50Z",
+                "open_issues": 0,
                 "owner": "jedfoster",
                 "repo": "Readmore.js",
                 "stars": 1488,
@@ -2510,7 +2510,7 @@
             "open_issues": 160,
             "owner": "bevacqua",
             "repo": "dragula",
-            "stars": 22116,
+            "stars": 22115,
             "topics": [
               "component",
               "drag-and-drop",
@@ -2835,10 +2835,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-02T02:10:47Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 535915,
+                "stars": 536428,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 3,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11660,
+                "stars": 11661,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2889,10 +2889,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-07-31T23:19:05Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3245,
+                "stars": 3246,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:41:02.008Z",
+    "last_updated": "2026-11-13T22:31:28.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
