@@ -105,7 +105,7 @@
                 "open_issues": 82,
                 "owner": "tastejs",
                 "repo": "todomvc",
-                "stars": 28973,
+                "stars": 28974,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -167,11 +167,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T22:29:42Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-14T19:10:28Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 9089,
+            "stars": 9095,
             "topics": [
               "2d",
               "angular",
@@ -495,7 +495,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30683,
+                "stars": 30682,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -516,7 +516,7 @@
                 "open_issues": 147,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25907,
+                "stars": 25908,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -595,11 +595,11 @@
                 "id": 114732,
                 "language": "JavaScript",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-11T01:09:34Z",
+                "last_commit": "2026-11-14T14:03:45Z",
                 "open_issues": 4,
                 "owner": "jquery-form",
                 "repo": "form",
-                "stars": 5141,
+                "stars": 5140,
                 "topics": [
                   "ajax",
                   "ajax-form",
@@ -785,7 +785,7 @@
                 "open_issues": 652,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67795,
+                "stars": 67793,
                 "topics": [
                   "canvas",
                   "chart",
@@ -834,7 +834,7 @@
                 "open_issues": 1192,
                 "owner": "OwlCarousel2",
                 "repo": "OwlCarousel2",
-                "stars": 7879,
+                "stars": 7880,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -991,7 +991,7 @@
                 "open_issues": 143,
                 "owner": "gwatts",
                 "repo": "jquery.sparkline",
-                "stars": 1234,
+                "stars": 1233,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1255,7 +1255,7 @@
                 "open_issues": 30,
                 "owner": "FrDH",
                 "repo": "mmenu-js",
-                "stars": 2561,
+                "stars": 2560,
                 "topics": [
                   "canvas-menu",
                   "drawer",
@@ -1784,7 +1784,7 @@
                 "open_issues": 58,
                 "owner": "tonytomov",
                 "repo": "jqGrid",
-                "stars": 2836,
+                "stars": 2835,
                 "topics": [
                   "bootstrap",
                   "export-excel",
@@ -1961,7 +1961,7 @@
                 "open_issues": 48,
                 "owner": "ludo",
                 "repo": "jquery-treetable",
-                "stars": 751,
+                "stars": 750,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2257,7 +2257,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2021-09-09T14:30:21Z",
-                "open_issues": 232,
+                "open_issues": 231,
                 "owner": "victorjonsson",
                 "repo": "jQuery-Form-Validator",
                 "stars": 960,
@@ -2510,7 +2510,7 @@
             "open_issues": 160,
             "owner": "bevacqua",
             "repo": "dragula",
-            "stars": 22115,
+            "stars": 22113,
             "topics": [
               "component",
               "drag-and-drop",
@@ -2734,7 +2734,7 @@
                 "open_issues": 19,
                 "owner": "rails",
                 "repo": "jquery-rails",
-                "stars": 943,
+                "stars": 942,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2763,7 +2763,7 @@
             "open_issues": 38,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35034,
+            "stars": 35033,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2784,7 +2784,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13650,
+            "stars": 13653,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2838,7 +2838,7 @@
                 "open_issues": 104,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 536428,
+                "stars": 536904,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2862,10 +2862,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-05T23:20:38Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11661,
+                "stars": 11663,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:31:28.532Z",
+    "last_updated": "2026-11-14T21:23:15.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
