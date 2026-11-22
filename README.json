@@ -137,7 +137,7 @@
             "open_issues": 137,
             "owner": "alvarotrigo",
             "repo": "fullPage.js",
-            "stars": 35354,
+            "stars": 35353,
             "topics": [
               "fullpage",
               "fullscreen",
@@ -167,11 +167,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T01:18:38Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-22T15:03:09Z",
+            "open_issues": 31,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 9123,
+            "stars": 9125,
             "topics": [
               "2d",
               "angular",
@@ -467,7 +467,7 @@
                 "open_issues": 56,
                 "owner": "raphaelcruzeiro",
                 "repo": "jquery-notebook",
-                "stars": 1675,
+                "stars": 1676,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -495,7 +495,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30680,
+                "stars": 30679,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -512,11 +512,11 @@
                 "id": 3620194,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T21:56:16Z",
-                "open_issues": 146,
+                "last_commit": "2026-11-22T22:08:09Z",
+                "open_issues": 130,
                 "owner": "select2",
                 "repo": "select2",
-                "stars": 25909,
+                "stars": 25908,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -632,7 +632,7 @@
                 "open_issues": 315,
                 "owner": "davidstutz",
                 "repo": "bootstrap-multiselect",
-                "stars": 3666,
+                "stars": 3667,
                 "topics": [
                   "bootstrap-multiselect",
                   "jquery-plugin",
@@ -781,11 +781,11 @@
                 "id": 8843683,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T14:25:16Z",
-                "open_issues": 642,
+                "last_commit": "2026-11-22T21:44:20Z",
+                "open_issues": 566,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67816,
+                "stars": 67819,
                 "topics": [
                   "canvas",
                   "chart",
@@ -813,7 +813,7 @@
                 "open_issues": 1266,
                 "owner": "kenwheeler",
                 "repo": "slick",
-                "stars": 28521,
+                "stars": 28522,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1478,7 +1478,7 @@
                 "open_issues": 679,
                 "owner": "dimsemenov",
                 "repo": "Magnific-Popup",
-                "stars": 11292,
+                "stars": 11293,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1520,7 +1520,7 @@
                 "open_issues": 51,
                 "owner": "lokesh",
                 "repo": "lightbox2",
-                "stars": 6369,
+                "stars": 6368,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -1763,7 +1763,7 @@
                 "open_issues": 76,
                 "owner": "metafizzy",
                 "repo": "isotope",
-                "stars": 11079,
+                "stars": 11078,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2164,7 +2164,7 @@
                 "open_issues": 35,
                 "owner": "coderifous",
                 "repo": "jquery-localize",
-                "stars": 459,
+                "stars": 458,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:56:58.789Z"
@@ -2759,8 +2759,8 @@
             "id": 21393871,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-21T22:01:40Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-22T14:11:41Z",
+            "open_issues": 43,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35040,
@@ -2784,7 +2784,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13657,
+            "stars": 13658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2838,7 +2838,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 540505,
+                "stars": 541070,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2865,7 +2865,7 @@
                 "open_issues": 8,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11673,
+                "stars": 11675,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2892,7 +2892,7 @@
                 "open_issues": 28,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3251,
+                "stars": 3252,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2977,7 +2977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:08:57.671Z",
+    "last_updated": "2026-11-22T22:25:41.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
